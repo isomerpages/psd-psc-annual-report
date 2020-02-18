@@ -1,0 +1,19 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Chairman's Review
+    url: /chairman's-review/
+  - title: The Singapore Psc
+    collection: the-singapore-psc
+  - title: Constitutional Roles
+    url: /constitutional-roles/
+  - title: Psc Scholarships
+    collection: psc-scholarships
+  - title: Official Visits
+    url: /official-visits/
