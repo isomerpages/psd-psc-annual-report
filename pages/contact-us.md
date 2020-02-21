@@ -2,13 +2,13 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Public Service Commission
 locations:
   - title: Main Office
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+        - 100 Victoria Street
+        - #08-01 National Library Building
+        - Singapore 188064
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
