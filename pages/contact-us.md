@@ -4,13 +4,13 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Public Service Commission
 locations:
-  - title: Main Office
+  - title: Public Service Commission Singapore
     address:
         - 100 Victoria Street
-        - #08-01 National Library Building
+        - 08-01 National Library Building
         - Singapore 188064
 contacts:
-  - title: General Enquiries & Feedback
+  - title: General Enquiries
     content:
     - email: psc@psd.gov.sg
 ---
