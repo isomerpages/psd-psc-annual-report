@@ -4,14 +4,13 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Hero title
         subtitle: Hero subtitle
         background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        button: Chairman's Review
+        url: /chairman's-review/
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
@@ -22,10 +21,4 @@ sections:
             - title: Page A
               description: Page A is important too
               url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
 ---
