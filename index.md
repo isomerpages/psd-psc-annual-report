@@ -1,24 +1,24 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: PSC Annual Report 2019
+description: PSC Annual Report 2019
+image: /images/PSC-logo.png
 permalink: /
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: PSC Annual Report 2019
+        subtitle:
         background: /images/hero-banner.png
         button: Chairman's Review
         url: /chairman's-review/
         key_highlights:
-            - title: Highlight A
+            - title: Entrusting Service, Upholding Values
               description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
+              url: /constitutional-roles/
+            - title: Recruiting Talent, Developing Leaders
               description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
+              url: /psc-scholarships/
+            - title: Forging Strong Ties, Building Trust
               description: Page A is important too
-              url: /privacy/
+              url: /official-visits/
 ---
