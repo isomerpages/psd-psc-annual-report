@@ -11,7 +11,7 @@ sections:
         button: Chairman's Review
         url: /chairman's-review/
         key_highlights:
-            - title: Entrusting Service, Upholding Values
+            - title: Without Fear or Favour
               url: /constitutional-roles/
             - title: Recruiting Talent, Developing Leaders
               url: /psc-scholarships/psc-scholarships/
