@@ -2,8 +2,6 @@
 title: Chairman's Review
 permalink: /chairman's-review/
 ---
-![alt text - photo of PSC Chairman Mr Lee Tzu Yang](/images/chairman-review.jpg)
-
 ### BEYOND THE BICENTENNIAL
 2019 marked the commemoration of Singapore’s Bicentennial. This was an occasion for us to reflect on how we came to be, how far we have come, and how we wish to go forward together. Our understanding of our history, the values that drive us, and the resolve we apply to overcome the challenges of the future will determine whether we celebrate our Tricentennial or Quadricentennial. 
 
@@ -29,7 +27,6 @@ I am confident that talented persons who possess the heart, imagination and dete
  
 #### Mr Lee Tzu Yang
 Chairman
-
 Public Service Commission
 
 
