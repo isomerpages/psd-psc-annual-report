@@ -2,8 +2,8 @@
 title: Official Visits
 permalink: /official-visits/
 ---
-# FORGING STRONG TIES, BUILDING TRUST
-## 2019 Official Visits & Meetings
+## FORGING STRONG TIES, BUILDING TRUST
+### 2019 Official Visits & Meetings
 
 The PSC values ongoing engagement with our partners and stakeholders. Through such meaningful engagement, the PSC is able to keep abreast of governance matters both locally and overseas. Besides hosting visits by representatives of foreign universities, local school leaders, thought leaders in different fields and other distinguished guests, the PSC also ventures out to engage stakeholders in other countries.
 
