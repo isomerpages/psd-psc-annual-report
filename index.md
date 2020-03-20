@@ -14,7 +14,7 @@ sections:
             - title: Entrusting Service, Upholding Values
               url: /constitutional-roles/
             - title: Recruiting Talent, Developing Leaders
-              url: /psc-scholarships/
+              url: /psc-scholarships/psc-scholarships/
             - title: Forging Strong Ties, Building Trust
               url: /official-visits/
 ---
