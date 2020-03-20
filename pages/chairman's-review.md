@@ -28,7 +28,8 @@ The scholarship experience is also growing richer and more diverse.  Scholarship
 I am confident that talented persons who possess the heart, imagination and determination to serve Singapore will continue to seek a career in the Public Service. The breadth and depth of opportunities to serve our community and nation is unparalleled, and the satisfaction unique. 
  
 #### Mr Lee Tzu Yang
-##### Chairman
-##### Public Service Commission
+Chairman
+
+Public Service Commission
 
 
