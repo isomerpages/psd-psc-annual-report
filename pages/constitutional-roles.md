@@ -6,7 +6,7 @@ permalink: /constitutional-roles/
 
 The Public Service Commission (PSC) is constituted under Part IX of the Constitution of the Republic of Singapore. 
 
-![alt text - group photo of PSC](/images/psc-group-photo.jpg)
+![alt text - group photo of PSC](/images/PSC-group-photo.jpg)
 
 #### The functions of the PSC under the Constitution are as follows:
     A.	Appoint,
