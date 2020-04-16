@@ -10,11 +10,5 @@ sections:
         background: /images/hero-banner.png
         button: Chairman's Review
         url: /chairman's-review/
-        key_highlights:
-            - title: Without Fear or Favour
-              url: /constitutional-roles/
-            - title: Recruiting Talent, Developing Leaders
-              url: /psc-scholarships/psc-scholarships/
-            - title: Forging Strong Ties, Building Trust
-              url: /official-visits/
+        
 ---
