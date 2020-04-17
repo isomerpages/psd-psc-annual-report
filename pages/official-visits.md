@@ -2,7 +2,7 @@
 title: Official Visits
 permalink: /official-visits/
 ---
-## 2019 OFFICIAL VISITS & MEETINGS
+# **2019 OFFICIAL VISITS & MEETINGS**
 
 The PSC values ongoing engagement with our partners and stakeholders. Through such meaningful engagement, the PSC is able to keep abreast of governance matters both locally and overseas. Besides hosting visits by representatives of foreign universities, local school leaders, thought leaders in different fields and other distinguished guests, the PSC also ventures out to engage stakeholders in other countries.
 
