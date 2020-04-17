@@ -2,7 +2,7 @@
 title: The Singapore PSC
 permalink: /the-singapore-psc/the-singapore-psc/
 ---
-# THE PSC’S ROLE
+# **THE PSC’S ROLE**
 
 The Public Service Commission (PSC) is constituted under Part IX of the Constitution of the Republic of Singapore. 
 
