@@ -2,8 +2,7 @@
 title: Chairman's Review
 permalink: /chairman's-review/
 ---
-
-![alt text - Banner of Chairman's Review](/images/CRBanner.png)
+![alt text - Banner of Chairman's Review](/images/CRBanner.jpg)
 
 
 ### **BEYOND THE BICENTENNIAL**
