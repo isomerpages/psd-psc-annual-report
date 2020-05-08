@@ -49,3 +49,5 @@ Cases under the latter two categories are collectively known as being under “t
 In 2019, 127 new disciplinary cases were reported to the PSC. Together with 81 cases that were brought forward from 2018, the PSC processed a total of 208 cases in the year. Of these cases, 98 were completed, including 24 cases which were completed under the Regulations and 50 cases which were completed under the Directions. Formal disciplinary action was not instituted against the officers in the remaining 24 cases. 
 
 The most common types of misconduct for cases completed in 2019 under the Regulations were Dishonesty / Embezzlement / Criminal Breach of Trust, Sexual Offences / Inappropriate Behaviour, Indebtedness, and Insubordination / Non-Compliance of Orders. Two-thirds of all officers disciplined under the Regulations were dismissed or retired in the public interest at the conclusion of the disciplinary proceedings against them. Details of the 24 cases completed under the Regulations in 2019 are in Table 1.
+
+![alt text - Table 1](/images/Table1.jpg)
