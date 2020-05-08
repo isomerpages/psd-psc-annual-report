@@ -26,7 +26,11 @@ The PSC scholarship offers three main career paths – Public Administration, Pr
 
 81 scholarship recipients proceeded for studies in 2019 ; 37 for Public Administration, 31 for Professional Service and 13 for Uniformed Service (Table 2). Details of the course of studies are in Table 3.
 
-*(include Table 2 & 3 when ready)*
+![alt text - Table 2](/images/Table2.jpg)
+
+
+![alt text - Table 3](/images/Table3.jpg)
+
 
 ![alt text - group photo of scholarship recipients at the 2019 PSC Scholarships Award Ceremony](/images/3.jpg)
 
@@ -37,7 +41,8 @@ Recipients of the PSC Scholarship or PSC Master’s Scholarship will take up a r
 
 In 2019, 34 recipients of the undergraduate PSC Scholarships and three recipients of the PSC Master’s Scholarships proceeded for their studies (Table 4).
 
-*(include Table 4 when ready)*
+![alt text - Table 4](/images/Table4.jpg)
+
 
 ![alt text - scholarship recipients singing national anthem at the 2019 PSC Scholarships Award Ceremony](/images/4.jpg)
 
@@ -50,7 +55,8 @@ Some candidates have a clear focus and interest in the career path they wish to 
 
 In 2019, 11 recipients of the PSC Scholarship (Engineering), three recipients of the PSC Scholarship (Foreign Service), six recipients of the PSC Scholarship (Legal Service), four recipients of the PSC Scholarship (Medicine), three recipients of the PSC Scholarship (Public Finance) and four recipients of the PSC Scholarship (Teaching Service) proceeded for their studies. The details are in Table 5.
 
-*(include Table 5 when ready)*
+![alt text - Table 5](/images/Table5.jpg)
+
 
 ![alt text - candid shot of teaching scholarship recipients](/images/6.jpg)
 
@@ -65,7 +71,8 @@ SAFS holders will be systematically trained and developed to assume key command 
 
 In 2019, there were nine recipients of the SAFS and four recipients of the SPFS who proceeded for their studies (Table 6).
 
-*(include Table 6 when ready)*
+![alt text - Table 6](/images/Table6.jpg)
+
 
 ![alt text - group shot of SAF scholarship recipients](/images/8.jpg)
 
@@ -78,6 +85,7 @@ The PSC also awards the President’s Scholarship – widely regarded as Singapo
 
 In 2019, there were four recipients of the President’s Scholarship (Table 7).
 
-*(include Table 7 when ready)*
+![alt text - Table 7](/images/Table7.jpg)
+
 
 ![alt text - group shot of 2019 President's scholarship recipients with President](/images/10.jpg)
