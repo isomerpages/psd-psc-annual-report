@@ -34,7 +34,7 @@ New segments were introduced to the programme in 2019 in a bid to continually de
 
 ![alt text -photo taken at 2019 PSMP](/images/15.jpg)
 
-The PSMP, held midway through a scholarship holder’s undergraduate studies, builds on the foundations laid in the Preparatory Course and the scholarship holders’ undergraduate experiences. The programme provides greater context on the realities of governance and highlights developments that have taken place since the scholarship holders commenced their studies. Apart from raising self-awareness by having scholarship holders chart their experiences as well as internalise areas that they could build on in line with future trends, the PSMP also consists of a six-to-eight week internship component with a government agency where they gain first-hand experience in the Public Service. 
+The PSMP, held midway through a scholarship holder’s undergraduate studies, builds on the foundations laid in the Preparatory Course and the scholarship holders’ undergraduate experiences. The programme provides greater context on the realities of governance and highlights developments that have taken place since the scholarship holders commenced their studies. Apart from raising self-awareness by having scholarship holders chart their experiences as well as internalise areas that they could build on in line with future trends, the PSMP also consists of a six-to-eight-week internship component with a government agency where they gain first-hand experience in the Public Service. 
 
 The PSMP provides scholarship holders the platform to reflect at the midpoint of their journey, how far they have come along, and through experiences and insights they gain during the programme, to chart the remaining portion of their development journey.
 
