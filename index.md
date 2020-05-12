@@ -11,9 +11,9 @@ sections:
             - title: Chairman's Review
               url: /chairman's-review/
             - title: The Singapore PSC
-              url: /the-singapore-psc/
+              url: /the-singapore-psc/the-singapore-psc
             - title: Constitutional Roles
-              url: /constitutonal-roles/
+              url: /constitutional-roles/
             - title: PSC Scholarships
               url: /psc-scholarships/psc-scholarships
         
