@@ -10,6 +10,8 @@ sections:
         key_highlights:
             - title: Chairman's Review
               url: /chairman's-review/
+            - title: The Singapore PSC
+              url: /the-singapore-psc/
             - title: Constitutional Roles
               url: /constitutonal-roles/
             - title: PSC Scholarships
