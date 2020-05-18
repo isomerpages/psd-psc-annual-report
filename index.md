@@ -6,7 +6,8 @@ image: /images/PSC-logo.png
 permalink: /
 sections:
     - hero:
-        title: 2019 PSC Annual Report
+        url: /chairmans-review/
+        button: Chairman's Review
         background: /images/Banner.jpg
         key_highlights:
             - title: Chairman's Review
