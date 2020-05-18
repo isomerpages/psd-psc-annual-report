@@ -6,8 +6,6 @@ image: /images/PSC-logo.png
 permalink: /
 sections:
     - hero:
-        url: /chairman's-review/
-        button: Chairman's Review
         background: /images/Banner.jpg
         key_highlights:
             - title: Chairman's Review
