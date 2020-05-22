@@ -61,7 +61,7 @@ The PSC partners Youth Corps Singapore (YCS) to train scholarship holders in the
 As part of the eighth intake of the YCS Leaders Programme, PSC scholarship holders completed six community projects. Of which, three are featured as below.
 
 #### Project Living Languages
-Together with Viriya Community Services, the project organised a free one-day dialect course (Hokkien and Cantonese) for youths. To promote the course, short clips with recordings of basic language phrases were featured on social media. The project aimed to address the intergenerational gap between elderly and youths who were not well versed in dialect.  
+Together with Viriya Community Services, the project team organised a free one-day dialect course (Hokkien and Cantonese) for youths. To promote the course, short clips with recordings of basic language phrases were featured on social media. The project aimed to address the intergenerational gap between elderly and youths who were not well versed in dialect.  
 
 #### Creating Resources for Kids – Team Lit
 The project aimed to create opportunities for children (in particular, those from disadvantaged backgrounds) to develop socio-emotional intelligence, through which they could gain better self-mastery and stronger relationships with the people around them. Collaborating with Ulu Pandan Stars Programme, the team suggested ways in which the programme could better incorporate socio-emotional learning into the curriculum and rolled out a workshop to pilot the ideas.
@@ -78,7 +78,7 @@ With ever-changing global trends and uncertainties abounding, Singapore needs pu
 
 ### **Academic Programmes and Exchanges**
 
-In 2019, PSC scholarship holders participated in summer and exchange programmes to countries such as Chile, China, Denmark, France, Greece, Italy, Israel, Japan, Russia, South Africa and The Netherlands. 7 scholarship holders pursued their postgraduate studies in various non-traditional countries – China, Germany, Japan, Spain and The Netherlands.
+In 2019, PSC scholarship holders participated in summer and exchange programmes to countries such as Chile, China, Denmark, France, Greece, Italy, Israel, Japan, Russia, South Africa and The Netherlands. Seven scholarship holders pursued their postgraduate studies in various non-traditional countries – China, Germany, Japan, Spain and The Netherlands.
 
 ### **Gap Year Programme**
 
