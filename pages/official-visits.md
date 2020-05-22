@@ -16,4 +16,3 @@ Discussion with university representatives centred on each university's unique a
 
 On 27 November 2019, a delegation from the Indonesian Ministry of Education and Culture visited the PSC to learn more about talent management in the Singapore Public Service. The meeting exchanged views on this as well as conduct and discipline matters.
 
-![alt text - group photo of PSC Secretariat with delegation from the Indonesia Ministry of Education and Culture](/images/23.jpg)
