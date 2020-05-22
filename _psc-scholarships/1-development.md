@@ -42,8 +42,6 @@ The PSMP provides scholarship holders the platform to reflect at the midpoint of
 
 The 2019 PSMP was attended by 63 scholarship holders. A new segment was introduced in the 2019 run of the programme to help scholarship holders plan ahead for a Gap Year. With the push to have public officers garner diverse experiences beyond the realm of the Public Service, the Gap Year programme is an opportunity for PSC scholarship holders to experience and better understand the business operations, challenges and ethos of the private sector. Senior scholarship holders were invited to share their Gap Year experiences. Partner organisations were also invited to share the opportunities available.
 
-![alt text -photo taken at 2019 PSMP](/images/17.jpg)
-
 As part of the PSMP, the Singapore Seminar gathered a total of 281 scholarship holders from across 42 public sector agencies. In 2019, the theme of the seminar was ‘Smart Nation: The Way Forward’. The programme explored what it meant for Singapore to be a Smart Nation and how it would impact various stakeholders – citizens, businesses and the economy. The speakers were Ms Ong Toon Hui (Deputy Secretary (Leadership), Public Service Division, Prime Minister’s Office), Mr Tan Chee Hau (Director, Planning and Prioritisation, Smart Nation and Digital Government Office), Mr Tan Kiat How (Chief Executive Officer, Infocomm Media Development Authority) and Mr Poon King Wang (Lee Kuan Yew Centre for Innovative Cities, Singapore University of Technology and Design). The speakers addressed questions generated from the session in a plenary session, with Ms Claire Chung Su-Lin (2017 Public Service Commission Teaching Scholarship) acting as facilitator to the session. 
 
 ![alt text -photo taken at 2019 PSMP](/images/18.jpg)
