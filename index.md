@@ -1,31 +1,20 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: PSC Annual Report 2019
+description: PSC Annual Report 2019
+image: /images/PSC-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        background: /images/Banner.jpg
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+            - title: Chairman's Review
+              url: /chairman's-review/
+            - title: The Singapore PSC
+              url: /the-singapore-psc/the-singapore-psc
+            - title: Constitutional Roles
+              url: /constitutional-roles/
+            - title: PSC Scholarships
+              url: /psc-scholarships/psc-scholarships
+        
 ---
