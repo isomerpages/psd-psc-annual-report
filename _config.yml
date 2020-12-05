@@ -1,6 +1,7 @@
 title: PSC Annual Report 2019
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.annualreport.psc.gov.sg
 favicon: /images/favicon-isomer.ico
+feedback_form_url: https://www.psc.gov.sg/feedback
 
 # Site colors
 colors:
