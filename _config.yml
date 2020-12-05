@@ -24,6 +24,7 @@ collections:
     output: true
   psc-scholarships:
     output: true
+ google analyics: G-TFWRM1G9HS
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
