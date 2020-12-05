@@ -1,6 +1,8 @@
 title: PSC Annual Report 2019
-url: https://www.annualreport.psc.gov.sg
+url: ""
 favicon: /images/favicon-isomer.ico
+
+google_analytics: UA-184772536-2
 
 # Site colors
 colors:
@@ -24,7 +26,6 @@ collections:
     output: true
   psc-scholarships:
     output: true
- google_analytics: UA-184772536-2
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
