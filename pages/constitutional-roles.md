@@ -37,7 +37,7 @@ In 2020, the PSC saw two further appeals for promotion/against termination under
 
 ### **Discipline**
 
-The PSC is vested with the disciplinary control of civil servants under Article 110(1) of the Constitution of the Republic of Singapore. Civil servants who misconduct themselves are dealt with under one of the three disciplinary procedures *(refer note)* listed below: 
+The PSC is vested with the disciplinary control of civil servants under Article 110(1) of the Constitution of the Republic of Singapore. Civil servants who misconduct themselves are dealt with under one of the three disciplinary procedures *+* listed below: 
 
 **a)	The Public Service (Disciplinary Proceedings) Regulations (“the Regulations”).**
 
@@ -49,7 +49,7 @@ The PSC is vested with the disciplinary control of civil servants under Article 
 
 *The PSC has delegated to the Commissioner of Prisons, part of its functions pertaining to the discipline of junior Prisons Officers for minor misconduct.*
 
-*Note: Officers may be disciplined under the Regulations when it involves serious misconducts; where the possible penalties include a dismissal or a reduction in rank. For less serious misconducts, officers may be disciplined under the Directions or Prison Directions, as appropriate.*
+*+Officers may be disciplined under the Regulations when it involves serious misconducts; where the possible penalties include a dismissal or a reduction in rank. For less serious misconducts, officers may be disciplined under the Directions or Prison Directions, as appropriate.*
 
 Cases under the latter two categories are collectively known as being under “the Directions”. The disciplinary process ensures that officers are treated fairly, regardless of rank or seniority.
 
