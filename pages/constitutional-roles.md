@@ -37,7 +37,7 @@ In 2020, the PSC saw two further appeals for promotion/against termination under
 
 ### **Discipline**
 
-The PSC is vested with the disciplinary control of civil servants under Article 110(1) of the Constitution of the Republic of Singapore. Civil servants who misconduct themselves are dealt with under one of the three disciplinary procedures *+* listed below: 
+The PSC is vested with the disciplinary control of civil servants under Article 110(1) of the Constitution of the Republic of Singapore. Civil servants who misconduct themselves are dealt with under one of the three disciplinary procedures+ listed below: 
 
 **a)	The Public Service (Disciplinary Proceedings) Regulations (“the Regulations”).**
 
