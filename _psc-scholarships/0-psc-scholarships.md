@@ -40,13 +40,13 @@ SAFS holders will be systematically trained and developed to assume key command 
 
 34 scholarship recipients proceeded for studies in the academic year 2020/2021; 4 for Public Administration, 23 for Professional Service and 7 for Uniformed Service (Table 2). Details of the course of studies and country of studies are in Table 3 and Table 4 respectively.
 
-![alt text - Table 2](/images/2020Table 2.jpg)
+![alt text - Table 2](/images/2020Table2.png)
 
 
-![alt text - Table 3](/images/2020Table 3.jpg)
+![alt text - Table 3](/images/2020Table3.png)
 
 
-![alt text - Table 4](/images/2020Table 4.jpg)
+![alt text - Table 4](/images/2020Table4.png)
 
 
 ### **President’s Scholarship** 
@@ -55,8 +55,8 @@ The PSC also awards the President’s Scholarship – widely regarded as Singapo
 
 In 2020, there was one recipient of the President’s Scholarship (Table 5).
 
-![alt text - Table 5](/images/2020Table 5.jpg)
+![alt text - Table 5](/images/2020Table5.png)
 
 
-![alt text - group shot of 2020 President's scholarship recipients with President](/images/AllysaP.jpg)
+![alt text - group shot of 2020 President's scholarship recipients with President](/images/AlyssaP.jpg)
 _Photo Credit: Ministry of Communications and Information (MCI), LH Goh_
