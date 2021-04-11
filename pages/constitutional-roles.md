@@ -57,4 +57,4 @@ In 2020, 145 new disciplinary cases were reported to the PSC. Together with 110 
 
 The most common types of misconduct for cases completed in 2020 under the Regulations were Sexual Offences / Inappropriate Behaviour, Dishonesty / Embezzlement / Criminal Breach of Trust, Indebtedness, and Negligence. Almost two-thirds of all officers disciplined under the Regulations were dismissed or retired in the public interest at the conclusion of the disciplinary proceedings against them. Details of the 51 cases completed under the Regulations in 2020 are in Table 1.
 
-![alt text - Table 1](/images/Table1.jpg)
+![alt text - Table 1](/images/2020Table1.PNG)
