@@ -6,4 +6,4 @@ permalink: /the-singapore-psc/members/
 
 The Constitution provides for the PSC to have a Chairman and not less than five and not more than fourteen other Members. In 2020, the PSC comprised the Chairman, two Deputy Chairmen and nine other Members.
 
-![alt text - Members of the PSC](/images/Members.jpg)
+![alt text - Members of the PSC](/images/2020Members.png)
