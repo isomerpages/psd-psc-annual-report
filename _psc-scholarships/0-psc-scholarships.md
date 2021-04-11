@@ -15,8 +15,10 @@ The PSC adopts a rigorous process to select scholarship holders. The Commission 
 
 The PSC also undertakes a broad outreach and communications plan each year to provide updated information on PSC Scholarships and Public Service careers to our stakeholders through regular meetings with school teams, as well as information sessions for students and their parents. In 2020, the PSC held a virtual information session for pre-university and university students. The virtual format provided a convenient and informative platform, allowing for a wide reach, while prioritising health and safety amid the Covid-19 pandemic.
 
+![alt text - Identifying Talent Illustration](/images/ITPIC.png)
 
-## ** PSC Scholarships - A Gateway to Public Service Careers ** 
+
+## **PSC Scholarships - A Gateway to Public Service Careers** 
 The PSC Scholarships offer three main career paths – Public Administration, Professional Service and Uniformed Service.
 
 ### **Public Administration**
@@ -38,13 +40,13 @@ SAFS holders will be systematically trained and developed to assume key command 
 
 34 scholarship recipients proceeded for studies in the academic year 2020/2021; 4 for Public Administration, 23 for Professional Service and 7 for Uniformed Service (Table 2). Details of the course of studies and country of studies are in Table 3 and Table 4 respectively.
 
-![alt text - Table 2](/images/2020Table2.jpg)
+![alt text - Table 2](/images/2020Table 2.jpg)
 
 
-![alt text - Table 3](/images/2020Table3.jpg)
+![alt text - Table 3](/images/2020Table 3.jpg)
 
 
-![alt text - Table 4](/images/2020Table4.jpg)
+![alt text - Table 4](/images/2020Table 4.jpg)
 
 
 ### **President’s Scholarship** 
@@ -53,7 +55,7 @@ The PSC also awards the President’s Scholarship – widely regarded as Singapo
 
 In 2020, there was one recipient of the President’s Scholarship (Table 5).
 
-![alt text - Table 5](/images/2020Table5.jpg)
+![alt text - Table 5](/images/2020Table 5.jpg)
 
 
 ![alt text - group shot of 2020 President's scholarship recipients with President](/images/AllysaP.jpg)
