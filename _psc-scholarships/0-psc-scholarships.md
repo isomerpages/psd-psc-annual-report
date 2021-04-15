@@ -6,7 +6,7 @@ permalink: /psc-scholarships/psc-scholarships/
 
 The PSC awards fully-funded scholarships to outstanding young men and women who are committed to serving Singapore through a career in the Public Service. PSC scholarship holders study various disciplines at established local and overseas universities, adding to the diversity of the Public Service when they commence their careers.
 
-In 2020, PSC played its part in adapting to respond to the pandemic. Beyond shifting scholarship interviews to a virtual format and coordinating efforts across the Public Service to bring overseas scholarship holders home in a short span of time, the PSC also offered alternative options to scholarship holders, ensuring they continue with their education and development while prioritising their health and safety. 
+In 2020, the PSC played its part in adapting to respond to the pandemic. Beyond shifting scholarship interviews to a virtual format and coordinating efforts across the Public Service to bring overseas scholarship holders home in a short span of time, the PSC also offered alternative options to scholarship holders, ensuring they continue with their education and development while prioritising their health and safety. 
 
 
 ## **Identifying Talent** 
