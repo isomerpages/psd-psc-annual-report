@@ -20,7 +20,7 @@ The PSC considered and appointed two officers at Superscale Grade 9 and above in
 
 The PSC considers the suitability of candidates for appointment as Chief Executive Officers of Statutory Boards and subsequent renewals. The PSC also considers the suitability of the Chief Executive Officers for promotion to Superscale D/Grade 7 and above.
 
-In 2020, the PSC considered and concurred with the agencies’ recommendation to 
+In 2020, the PSC considered and concurred with the agencies’ recommendation to: 
 
 a)	appoint 11 officers as new Chief Executive Officers;
 
