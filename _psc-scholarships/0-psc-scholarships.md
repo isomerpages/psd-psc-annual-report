@@ -34,7 +34,7 @@ Recipients who respond to the call of security and defence of the nation will se
 SAFS holders will be systematically trained and developed to assume key command and staff appointments in the SAF while SPFS holders will be groomed to be strategists in upholding law, maintaining order and keeping peace in Singapore.
 
 
-## **PSC Scholarship Recipients who proceeded for Studies in Academic Year 2020/2021**
+## **PSC Scholarship Recipients who Proceeded for Studies in Academic Year 2020/2021**
 
 34 scholarship recipients proceeded for studies in the academic year 2020/2021; 4 for Public Administration, 23 for Professional Service and 7 for Uniformed Service (Table 2). Details of the course of studies and country of studies are in Table 3 and Table 4 respectively.
 
