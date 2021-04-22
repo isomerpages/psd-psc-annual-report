@@ -31,7 +31,7 @@ Some candidates have a clear focus and interest in the career path they wish to 
 
 Recipients who respond to the call of security and defence of the nation will set off on the pathway of the Uniformed Services. The PSC awards The Singapore Armed Forces Scholarship (SAFS) and The Singapore Police Force Scholarship (SPFS) to outstanding young men and women who make the commitment to maintain peace and stability in our country. 
 
-SAFS holders will be systematically trained and developed to assume key command and staff appointments in the SAF while SPFS holders will be groomed to be strategists in upholding law, maintaining order and keeping peace in Singapore.
+SAFS holders will be systematically trained and developed to assume key command and staff appointments in the SAF while SPFS holders will be groomed to be leaders in upholding law, maintaining order and keeping peace in Singapore.
 
 
 ## **PSC Scholarship Recipients who Proceeded for Studies in Academic Year 2020/2021**
