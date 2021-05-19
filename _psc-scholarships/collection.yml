@@ -1,0 +1,6 @@
+collections:
+  psc-scholarships:
+    output: true
+    order:
+      - psc-scholarships.md
+      - development.md
