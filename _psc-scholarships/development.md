@@ -13,14 +13,17 @@ The Preparatory Course aims to prepare newly awarded PSC scholarship holders for
 ![alt text - 2021 Preparatory Course](/images/004.png)
 
 *Project Free Bard*
+
 Project Free Bard aims to empower youth to express their emotions in a healthy manner through the literary arts and to inculcate an appreciation of and engagement with the arts. This was achieved through weekly activities ranging from team building games, to poetry-related games and exercises, to riddles, to art and craft. The team also worked with SHINE Children and Youth Services, CampusImpact and FaithActs, where 30 to 40 students in total have benefited from Project Free Bard.
 
 *Project Life Journaller*
+
 Project Life Journaller was a pilot project with All Saints Home (ASH) to engage elderly residents through reminiscence therapy. Through meaningful, in-depth conversations with the elderly about their life experiences, the team co-created scrapbooks that covered these experiences and allowed the elderly to feel hopeful about the future.
 
 ![alt text - Project Life Journaller](/images/005.jpg)
 
 *Team Kinderjoy*
+
 Team Kinderjoy was founded with Life Community Services Singapore (LCSS). This idea stemmed from wanting to provide meaningful exposure for children of incarcerated parents - to inculcate values such as independence, confidence, curiosity etc. and instil important habits like recycling and financial management through a series of interesting activities. Activities include Art and Craft, Financial Literacy and Care Languages among other interesting games to engage the children. Most of the activities were carried through day camps.
 
 ![alt text - Team Kinderjoy](/images/006.jpg)
