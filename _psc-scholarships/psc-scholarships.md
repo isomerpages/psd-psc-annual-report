@@ -38,7 +38,7 @@ SAFS holders will be systematically trained and developed to assume key command 
 
 PSC held its PSC Scholarships Award ceremony virtually in 2021.
 
-![alt text - 2021 PSC Scholarships Award Ceremony](/images/2001.jpg)
+![alt text - 2021 PSC Scholarships Award Ceremony](/images/001.jpg)
 
 75 scholarship recipients proceeded for studies in 2021; 31 for Public Administration, 35 for Professional Service and 9 for Uniformed Service (Table 2). Details of the course of studies and country of studies are in Table 3 and Table 4 respectively.
 
