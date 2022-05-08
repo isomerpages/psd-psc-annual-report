@@ -32,6 +32,7 @@ Team Kinderjoy was founded with Life Community Services Singapore (LCSS). This i
 ### **2021 PSC Scholarship Holders’ Mid-Course Programme (PSMP)**
 
 The PSMP, held midway through a scholarship holder’s undergraduate studies, builds on the foundations laid in the Preparatory Course and the scholarship holders’ undergraduate experiences. The programme provides greater context on the realities of governance and highlights developments that have taken place since the scholarship holders commenced their studies. The PSMP also consists of a six-to-eight-week internship component with a government agency where scholarship holders gain first-hand experience in the Public Service. 71 scholarship holders attended the 2021 PSMP.
+
 Singapore Seminar was held on 21 July 2021, with the theme, “Sustainable Singapore – Building Our Future Today”. Bringing together scholarship holders from various Public Agencies, the seminar saw rich insights, perspectives, and discussion on sustainability issues and how they map out to Singapore’s future. 
 
 ### **Diverse Experiences Through Academic Programmes, Internships and the Gap Year Programme**
