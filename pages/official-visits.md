@@ -10,6 +10,6 @@ In 2021, the PSC resumed official on-site visits to several ministries and agenc
 
 ![alt text - Visit to MINDEF](/images/007.JPG)
 
-Such visits strengthen the PSC’s understanding of the Public Service, and the vision that it strives towards for Singapore’s future. This understanding helps to provide insight into the PSC’s own work as it continues building on the strengths, and addressing the gaps, of the Public Service.
+Such visits strengthen the PSC’s understanding of the Public Service, and the vision that it strives towards for Singapore’s future. This understanding helps to provide insight into the PSC’s own work as it continues building on the strengths and addressing the gaps of the Public Service.
 
 ![alt text - Visit to Public Service Agencies](/images/0089.png)
