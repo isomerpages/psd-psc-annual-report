@@ -1,4 +1,4 @@
-title: PSC Annual Report 2020
+title: PSC Annual Report 2021
 url: "https://www.annualreport.psc.gov.sg"
 favicon: /images/favicon-isomer.ico
 
@@ -21,11 +21,6 @@ colors:
       color: '#00838f'
 
 
-collections:
-  the-singapore-psc:
-    output: true
-  psc-scholarships:
-    output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
@@ -45,10 +40,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://psd-psc-annual-report-staging.netlify.app
+prod: https://psd-psc-annual-report-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme

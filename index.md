@@ -1,12 +1,12 @@
 ---
 layout: homepage
-title: PSC Annual Report 2020
-description: PSC Annual Report 2020
+title: PSC Annual Report 2021
+description: PSC Annual Report 2021
 image: /images/PSC-logo.png
 permalink: /
 sections:
     - hero:
-        background: /images/ARBanner2020.jpg
+        background: /images/ARBanner21.jpg
         key_highlights:
             - title: Chairman's Review
               url: /chairman's-review/
