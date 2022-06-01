@@ -23,7 +23,7 @@ In 2021, the PSC considered and concurred with the agencies’ recommendation to
 
 a)	appoint 7 officers as new Chief Executive Officers;
 
-b)	renew the terms of 15 existing Chief Executive Officers;
+b)	renew the terms of 15 existing Chief Executive Officers; and
 
 c)	appoint 42 officers as Acting Chief Executive Officers.
 
