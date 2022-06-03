@@ -6,7 +6,7 @@ image: /images/PSC-logo.png
 permalink: /
 sections:
     - hero:
-        title: &nbsp
+        title: &nbsp test
         background: /images/ARBanner21.jpg
         key_highlights:
             - title: Chairman's Review
