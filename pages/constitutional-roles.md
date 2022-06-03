@@ -23,9 +23,9 @@ In 2021, the PSC considered and concurred with the agencies’ recommendation to
 
 a)	appoint 7 officers as new Chief Executive Officers;
 
-b)	renew the terms of 15 existing Chief Executive Officers;
+b)	renew the terms of 15 existing Chief Executive Officers; and
 
-c)	appoint 42 officers as Acting Chief Executive Officers; and
+c)	appoint 42 officers as Acting Chief Executive Officers.
 
 
 ### **Appeals**
@@ -35,7 +35,7 @@ There were no appeals for promotion/against termination under the Public Service
 
 ### **Discipline**
 
-The PSC is vested with the disciplinary control of civil servants under Article 110(1) of the Constitution of the Republic of Singapore. Civil servants who misconduct themselves are dealt with under one of the three disciplinary procedures+ listed below: 
+The PSC is vested with the disciplinary control of civil servants under Article 110(1) of the Constitution of the Republic of Singapore. Civil servants who misconduct themselves are dealt with under one of the three disciplinary procedures^ listed below: 
 
 **a)	The Public Service (Disciplinary Proceedings) Regulations (“the Regulations”).**
 
@@ -47,7 +47,7 @@ The PSC is vested with the disciplinary control of civil servants under Article 
 
 *The PSC has delegated to the Commissioner of Prisons, part of its functions pertaining to the discipline of junior Prisons Officers for minor misconduct.*
 
-*+Officers may be disciplined under the Regulations when it involves serious misconducts; where the possible penalties include a dismissal or a reduction in rank. For less serious misconducts, officers may be disciplined under the Directions or Prison Directions, as appropriate.*
+*^Officers may be disciplined under the Regulations when it involves serious misconducts; where the possible penalties include a dismissal or a reduction in rank. For less serious misconducts, officers may be disciplined under the Directions or Prison Directions, as appropriate.*
 
 Cases under the latter two categories are collectively known as being under “the Directions”.
 
