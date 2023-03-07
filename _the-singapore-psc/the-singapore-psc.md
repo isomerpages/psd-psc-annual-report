@@ -21,7 +21,7 @@ E.	Transfer, and
 
 F.	Dismiss and exercise disciplinary control over public officers+. 
 
-*+These categories of officers do not fall under the PSC’s purview: Singapore Armed Forces personnel, officers in the Judicial and Legal Services, Police Officers below the rank of Inspector, and daily-rated employees.* 
+*+These categories of officers do not fall under the PSC’s purview: Singapore Armed Forces personnel, officers in the Judicial and Legal Services, Police Officers below the rank of Inspector.* 
 
 
 Under the Public Sector (Governance) Act 2018, which came into effect on 1 Apr 2018, the PSC’s concurrence is required for the appointment, promotion and discipline of Chief Executive Officers of Statutory Boards.
