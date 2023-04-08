@@ -45,14 +45,14 @@ The PSC is vested with the disciplinary control of civil servants under Article 
 
 **c)	The Public Service Commission (Prison Officers) (Disciplinary Proceedings – Delegation of Functions) Directions (“the Prisons Directions”).** 
 
-*^Officers may be disciplined under the Regulations when it involves serious misconducts; where the possible penalties include a dismissal or a reduction in rank. For less serious misconducts, officers may be disciplined under the Directions or Prison Directions, as appropriate. The PSC has delegated to the Permanent Secretaries / Commissioner of Prisons part of its functions pertaining to the discipline of officers/junior prisons officers for minor misconduct.*
+*^Officers may be disciplined under the Regulations when it involves serious misconducts; where the possible penalties include a dismissal or a reduction in rank. For less serious misconducts, officers may be disciplined under the Directions or Prisons Directions, as appropriate. The PSC has delegated to the Permanent Secretaries / Commissioner of Prisons part of its functions pertaining to the discipline of officers/junior prison officers for minor misconduct.*
 
 Cases under the latter two categories are collectively known as being under “the Directions”.
 
 In 2022, the PSC embarked on a review of the disciplinary legislation with an objective to help Ministries and agencies better handle disciplinary cases in an expeditious manner, without compromising rigour and fairness. As part of the legislative review, rules, policies and processes were also modernised to align with progressive employment practices.
 
-These efforts have helped us process and complete significantly more discipline cases in 2022 compared to previous years. In 2022, 134 new disciplinary cases were reported to the PSC. Together with 159 cases that were brought forward from previous years, the PSC processed a total of 293 cases in the year. Of these cases, 198 (~68%) were completed, including 109 cases which were completed under the Regulations and 62 cases which were completed under the Directions. Formal disciplinary action was not instituted against the officers in the remaining 27 cases.
+These efforts have helped the PSC process and complete significantly more discipline cases compared to previous years. In 2022, 134 new disciplinary cases were reported to the PSC. Together with 159 cases that were brought forward from previous years, the PSC processed a total of 293 cases in the year. Of these cases, 198 (~68%) were completed, including 109 cases which were completed under the Regulations and 62 cases which were completed under the Directions. Formal disciplinary action was not instituted against the officers in the remaining 27 cases.
 
 The most common types of misconduct cases under the Regulations were Non-Compliance of Orders, Indebtedness and Sexual Offences. Table 1 shows the breakdown of the 109 cases completed under the Regulations in 2022.
 
-![alt text - Table 1](/images/21Table1.PNG)
+![alt text - Table 1](/images/Tbl1.png)
