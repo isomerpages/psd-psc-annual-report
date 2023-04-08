@@ -45,9 +45,10 @@ The PSC is vested with the disciplinary control of civil servants under Article 
 
 **c)	The Public Service Commission (Prison Officers) (Disciplinary Proceedings – Delegation of Functions) Directions (“the Prisons Directions”).** 
 
+Cases under the latter two categories are collectively known as being under “the Directions”.
+
 *^Officers may be disciplined under the Regulations when it involves serious misconducts; where the possible penalties include a dismissal or a reduction in rank. For less serious misconducts, officers may be disciplined under the Directions or Prisons Directions, as appropriate. The PSC has delegated to the Permanent Secretaries / Commissioner of Prisons part of its functions pertaining to the discipline of officers/junior prison officers for minor misconduct.*
 
-Cases under the latter two categories are collectively known as being under “the Directions”.
 
 In 2022, the PSC embarked on a review of the disciplinary legislation with an objective to help Ministries and agencies better handle disciplinary cases in an expeditious manner, without compromising rigour and fairness. As part of the legislative review, rules, policies and processes were also modernised to align with progressive employment practices.
 
