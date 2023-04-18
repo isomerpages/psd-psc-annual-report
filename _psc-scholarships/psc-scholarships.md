@@ -48,7 +48,7 @@ In 2022, the PSC took steps to cautiously resume in-person activities, holding i
 
 ![alt text - 2022 PSC Scholarships Award Ceremony](/images/Image5.jpg)
 
-66 scholarship recipients proceeded for studies in 2022; 19 on the Public Administration track, 35 on the Professional Service track and 12 on the Uniformed Service Track (Table 2). Details of the course and country of studies are in Table 3 and Table 4 respectively.
+66 scholarship recipients proceeded for studies in 2022; 19 on the Public Administration track, 35 on the Professional Service track and 12 on the Uniformed Service Track (Table 2). Details of their course and country of studies are in Table 3 and Table 4 respectively.
 
 ![alt text - Table 2](/images/Tbl2.png)
 
