@@ -15,7 +15,7 @@ In 2022, the PSC made two overseas visits to Europe (from 3 to 10 October) and t
 ![alt text - Visit to NEA](/images/Image15.jpg)
 *Photo Credit:NEA*
 
-Many Ministries and agencies host and brief the PSC ever year to help the Commission better understand the work and challenges of the Public Service. While some of these visits had to be done virtually in 2020 and 2021 due to the pandemic, in 2022, all physical on-site visits were resumed. This allowed the PSC the opportunity to interact with a wider group of officers on the ground. At these updates, the PSC learned of the varied scope of work across sectors, from emergency response operations at the SCDF to IT research and development work at GovTech.
+Many Ministries and agencies host and brief the PSC every year to help the Commission better understand the work and challenges of the Public Service. While some of these visits had to be done virtually in 2020 and 2021 due to the pandemic, in 2022, all physical on-site visits were resumed. This allowed the PSC the opportunity to interact with a wider group of officers on the ground. At these updates, the PSC learned of the varied scope of work across sectors, from emergency response operations at the SCDF to IT research and development work at GovTech.
 
 ![alt text - Visit to CPIB](/images/Image17.jpg) 
 
