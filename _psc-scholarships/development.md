@@ -8,7 +8,7 @@ PSC scholarship holders are involved in a series of milestone programmes and oth
 
 ### **2022 Preparatory Course**
 
-![alt text - 2021 Preparatory Course](/images/Image8.jpg)
+![alt text - 2021 Preparatory Course](/images/image8.jpg)
 
 The annual Preparatory Course aims to prepare newly awarded PSC scholarship holders for their studies and set the expectations on their roles as ambassadors of the Singapore Public Service. The 2022 Preparatory Course, conducted as an in-person programme from 20 to 30 June 2022, brought back key elements which fostered cohort-building such as the 3-day Outward Bound Singapore (OBS) course.
 
@@ -16,7 +16,7 @@ As part of the Preparatory Course, all scholarship holders take part in the Yout
 The YCLP projects that were completed by PSC scholarship holders in 2022 include “Community Oriented Developers & Engineers (Project CODE)”, “Talk Here, It’s Safe (THIS4Youth)” and “Project Homerun”. Brief descriptions of these projects are in the following paragraphs.
 
 
-![alt text - Youth Corps Leaders' Programme](/images/Image9.jpg)
+![alt text - Youth Corps Leaders' Programme](/images/image9.jpg)
 
 
 *Project CODE*
@@ -31,7 +31,7 @@ THIS4Youth comprised two components – an online peer support group programme a
 
 Project Homerun worked with Habitat for Humanity Singapore, which aims to improve the quality of life and living conditions of low-income and disadvantaged Singaporeans. In conjunction with their Project Homeworks initiative, the team coordinated efforts to recruit volunteers, raise funds and engage youths on such social issues, and was able to meaningfully contribute to 32 households.
 
-![alt text - Project Homerun](/images/Image10.jpg)
+![alt text - Project Homerun](/images/image10.jpg)
 
 
 ### **2022 PSC Scholarship Holders’ Mid-Course Programme (PSMP)**
@@ -39,7 +39,7 @@ Project Homerun worked with Habitat for Humanity Singapore, which aims to improv
 The PSMP, held midway through a scholarship holder’s undergraduate studies, builds on the foundations laid in the Preparatory Course and the scholarship holders’ undergraduate experiences. The programme provides greater context on the
 realities of governance and highlights developments that have taken place since the scholarship holders commenced their studies. The PSMP also consists of a six-to-eight-week internship component with a government agency, where scholarship holders gain first-hand experience in the Public Service. 34 scholarship holders attended the 2022 PSMP held from 1 to 8 July. Organised together with the PSMP, Singapore Seminar, a forum which brings together scholarship holders from various Public Agencies, was held on 27 July 2022, with the theme, “Strengthening Our Social Compact: Enabling Vulnerable Groups in Singapore”. The seminar saw rich insights, perspectives, and discussion.
 
-![alt text - PSC Scholarship Holders' Mid-Course Programme](/images/Image11.jpg)
+![alt text - PSC Scholarship Holders' Mid-Course Programme](/images/image11.jpg)
 
 
 ### **Diverse Experiences Through Academic Programmes, Internships and the Gap Year Programme**
@@ -52,4 +52,4 @@ Beyond academic programmes, scholarship holders also take part in internships ou
 
 Scholarship holders also have the option of taking up a Gap Year programme – a year-long attachment locally or overseas with International Organisations, reputable Non-Governmental Organisations (NGOs) or private companies. The experiences from these stints help to inject diversity into the talent pipeline and build up networks useful for the Public Service. In 2022, scholarship holders proceeded for their Gap Year programmes with the following organisations: Grab Holdings Inc. (Singapore); Interpol, Singapore; and UNESCO (France).
 
-![alt text - Gap Year Programme](/images/GapYear.png)
+![alt text - Gap Year Programme](/images/gapyear.png)

@@ -56,4 +56,4 @@ These efforts have helped the PSC process and complete significantly more discip
 
 The most common types of misconduct cases under the Regulations were Non-Compliance of Orders, Indebtedness and Sexual Offences. Table 1 shows the breakdown of the 109 cases completed under the Regulations in 2022.
 
-![alt text - Table 1](/images/Tbl1.png)
+![alt text - Table 1](/images/tbl1.png)

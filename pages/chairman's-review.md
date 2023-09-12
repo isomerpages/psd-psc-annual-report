@@ -31,4 +31,4 @@ Some of these efforts have borne fruit and helped to complete disciplinary cases
 ### **MOVING FORWARD**
 We expect Singapore will face a more volatile and uncertain environment in future. To overcome challenges and seize opportunities that may come our way, we must continue to build and develop a resilient Public Service united in its mission to serve Singapore, that is diverse in experience, capabilities and skills, to be able to do its job well. The Public Service Commission looks to help build a strong leadership pipeline and support an exceptional Public Service culture worthy of Singaporeans. 
 
-![alt text - Banner of Chairman's Review](/images/CRBanner20.png)
+![alt text - Banner of Chairman's Review](/images/crbanner20.png)
