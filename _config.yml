@@ -42,8 +42,8 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
 
-staging: https://psd-psc-annual-report-staging.netlify.app
-prod: https://psd-psc-annual-report-prod.netlify.app
+staging: https://staging.dnuwlxse68yma.amplifyapp.com/
+prod: https://master.dnuwlxse68yma.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
