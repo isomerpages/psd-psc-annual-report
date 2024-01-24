@@ -1,0 +1,6 @@
+collections:
+  the-singapore-psc:
+    output: true
+    order:
+      - the-singapore-psc.md
+      - members.md
