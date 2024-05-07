@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/PSC_Annual_Report_2023_Banner_cropped.jpg
+      background: /images/download__2_.png
       key_highlights:
         - title: Chairman's Review
           url: /chairman's-review/
@@ -16,7 +16,7 @@ sections:
           url: /constitutional-roles/
         - title: PSC Scholarships
           url: /psc-scholarships/psc-scholarships
-      variant: center
+      variant: image
       size: md
       alignment: left
 ---
