@@ -16,6 +16,7 @@ at MND.&nbsp;</p>
 the Public Service and help the PSC perform its roles and functions. The
 PSC would like to thank all public officers for their commitment and hard
 work in building a better Singapore.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_22_1.png">
 </div>
@@ -31,4 +32,5 @@ work in building a better Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_23_2.png">
 </div>
+<p></p>
 <p></p>
