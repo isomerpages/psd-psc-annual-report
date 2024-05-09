@@ -1,24 +1,32 @@
 ---
 title: Official Meetings
 permalink: /official-visits/
+variant: tiptap
 ---
-# **2022 OFFICIAL VISITS & MEETINGS**
-
-![alt text - Visit to Europe](/images/image12.jpg)
-
-The PSC values engagement with our partners and stakeholders to keep abreast of governance matters both locally and overseas. Besides hosting visits from representatives of foreign universities and institutions, local school leaders, thought leaders in different fields and other distinguished guests, the PSC also ventures out to engage stakeholders in other countries.
-
-![alt text - Visit to US](/images/image13.jpg)
-
-In 2022, the PSC made two overseas visits to Europe (from 3 to 10 October) and the United States (from 13 to 20 November), to build and strengthen our ties with the various educational institutions, and keep ourselves updated on new developments in the higher education landscape of these regions.
-
-![alt text - Visit to NEA](/images/image15.jpg)
-*Photo Credit:NEA*
-
-Many Ministries and agencies host and brief the PSC every year to help the Commission better understand the work and challenges of the Public Service. While some of these visits had to be done virtually in 2020 and 2021 due to the pandemic, in 2022, all physical on-site visits were resumed. This allowed the PSC the opportunity to interact with a wider group of officers on the ground. At these updates, the PSC learned of the varied scope of work across sectors, from emergency response operations at the SCDF to IT research and development work at GovTech.
-
-![alt text - Visit to CPIB](/images/image17.jpg) 
-
-Regardless of the sector, it was evident that public officers have put in tremendous hard work, responding as diligently and purposefully as possible to manage the pandemic while simultaneously working on new processes, initiatives, systems, and policies to bring Singapore forward. The PSC would like to give our heartfelt thanks to all officers for their hard work and resilience these past few years – efforts that continue to care for our nation and bring it to the future.
-
-![alt text - Visit to CAAS](/images/image16.jpg) 
+<h1><strong>2023 PSC VISITS</strong></h1>
+<p>The PSC makes visits to Ministries and agencies to better understand the
+work and challenges of the Public Service. In 2023, the PSC did visits
+to a total of 14 Ministries and agencies, where the PSC was able to interact
+with public officers and learn more about the work across different sectors,
+ranging from growth and transformation at MHA, future capabilities of the
+Army at MINDEF, health crisis management at MOH to sustainability infrastructure
+at MND.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_22_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_22_2.png">
+</div>
+<p>These regular visits strengthen the PSC’s understanding and insights into
+the Public Service and help the PSC perform its roles and functions. The
+PSC would like to thank all public officers for their commitment and hard
+work in building a better Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_23_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_23_2.png">
+</div>
+<p></p>
