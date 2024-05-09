@@ -11,7 +11,7 @@ Constitution of the Republic of Singapore.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_6_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_6_1.png">
 </div>
 <p>*<em>These categories of officers do not fall under the PSC’s purview: Singapore Armed Forces personnel, officers in the Judicial and Legal Services, and Police Officers below the rank of Inspector.</em>
 </p>
@@ -23,7 +23,7 @@ and discipline of Chief Executive Officers of Statutory Boards.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_6_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_6_2.png">
 </div>
 <p>The PSC is the final appellate body to consider appeals against decisions
 of the Special Personnel Board.</p>
