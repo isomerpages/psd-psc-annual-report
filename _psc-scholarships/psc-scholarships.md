@@ -67,36 +67,56 @@ for the mid-term scholarship from 2024 onwards.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_13_3.png">
 </div>
 <h2><strong>Identifying Talent</strong></h2>
-<p>The PSC adopts a rigorous process to select scholarship holders. The Commission
-considers a range of information from multiple sources. These include the
-candidate’s personal statement, school report, Co-Curricular Activity (CCA)
-achievements, community involvement records, academic results and other
-notable achievements. The holistic assessment brings out key factors the
-PSC seeks in candidates, including leadership potential, resilience, diversity
-of experience, aptitude, and passion and fit for a Public Service career.
-The PSC has adopted a range of assessment tools, allowing the selection
-panel an insight into some of the non-intellectual, whole person traits
-of scholarship applicants. The PSC continually reviews its battery of assessment
-tools for scholarship selection and seeks improvements to it to ensure
-that the right talent is selected holistically.</p>
+<p>The PSC adopts a rigorous process to select scholarship holders and considers
+a range of information from multiple sources. These include the candidate’s
+personal statement, school report, achievements in Co-Curricular Activities,
+community involvement, academic results and other notable achievements.
+The holistic assessment brings out key factors the PSC seeks in candidates,
+including leadership potential, resilience, diversity of experience, aptitude,
+passion and fit for a Public Service career. The PSC has adopted a range
+of tools, allowing the selection panel an insight into some of the non-intellectual
+and whole person traits of our applicants. The PSC continually reviews
+its battery of tools for scholarship selection and enhances it to ensure
+that the right talent is selected.</p>
 <p>The PSC provides updated information on the PSC Scholarships and Public
 Service careers to our stakeholders through regular meetings with school
-leaders, as well as information sessions for students and their parents.
-The PSC also values and works in close partnerships with schools, universities
-and self-help community groups to raise awareness of the PSC Scholarships
-across a diverse profile of candidates.</p>
-<h2><strong>2022 PSC Scholarship Recipients</strong></h2>
-<p>In 2022, the PSC took steps to cautiously resume in-person activities,
-holding its first physical PSC Scholarships Award Ceremony since 2019.
-The event, held on 20 July 2022, was graced by Mr Chan Chun Sing, Minister
-for Education and Minister-in-Charge of the Public Service.</p>
+leaders, as well as sessions for students and their parents.</p>
+<p>In 2023, the PSC expanded its annual Scholarship Information Session to
+a Whole-Of-Government Scholarship Fair involving over 40 agencies. The
+scholarship fair provided a ‘one-stop’ platform for prospective scholarship
+applicants and their parents to learn more about the careers and scholarships
+offered by the various agencies. Key overseas education partners were also
+invited to share on the tertiary education opportunities in France, Germany,
+Japan, the United Kingdom and the United States.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="alt text - 2022 PSC Scholarships Award Ceremony" src="/images/image5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_14_1.png">
 </div>
-<p>66 scholarship recipients proceeded for studies in 2022; 19 on the Public
-Administration track, 35 on the Professional Service track and 12 on the
-Uniformed Service Track (Table 2). Details of their course and country
-of studies are in Table 3 and Table 4 respectively.</p>
+<p>The PSC works in close partnership with agencies, schools, universities
+and self-help community groups to reach out to a diverse profile of candidates
+and raise awareness of the scholarship and career options available in
+the Public Service. In 2023, the PSC established the Alumni Network which
+brought together over 160 volunteers from the Public Service talent programmes
+to complement and support engagement and partnership efforts. Over the
+past year, the Network has supported close to 20 initiatives and engaged
+a diverse range of student profiles through school engagement sessions
+and leadership programmes.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_14_2.png">
+</div>
+<h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_14_3.png">
+</div>
+<h2><strong>2023 PSC Scholarship Recipients</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_15_1.png">
+</div>
+<p>In 2023, 65 scholarship recipients proceeded for studies – 32 on the Public
+Administration track, 26 on the Professional Service track and 7 on the
+Uniformed Service track (<u>Table 2</u>). Details of their courses and
+countries of study are in <u>Table 3</u> and <u>Table 4</u> respectively.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="alt text - Table 2" src="/images/tbl2.png">
 </div>
@@ -107,21 +127,21 @@ of studies are in Table 3 and Table 4 respectively.</p>
 <img style="width: 100%" height="auto" width="100%" alt="alt text - Table 4" src="/images/tbl4.png">
 </div>
 <h3><strong>President’s Scholarship</strong></h3>
-<p>The PSC also awards the President’s Scholarship – widely regarded as Singapore’s
-most prestigious undergraduate scholarship. The President’s Scholarship
-is awarded on top of a public sector scholarship. It recognises individuals
-who have stood out among their cohort, demonstrating excellence in various
-pursuits. Recipients of the President’s Scholarship are dedicated to improving
-the lives of Singaporeans and exemplify the ethos of the Public Service.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="alt text - 2022 President's scholarship recipients" src="/images/image6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_17_1.png">
 </div>
-<p>In 2022, there were four recipients of the President’s Scholarship (Table
-5).</p>
+<p>The PSC awards the President’s Scholarship – Singapore’s most prestigious
+undergraduate scholarship. The President’s Scholarship is awarded on top
+of a public sector scholarship. It recognises individuals who have stood
+out among their cohort, demonstrating excellence in their pursuits. Recipients
+of the President’s Scholarship have shown dedication to improving the lives
+of Singaporeans and exemplifying the ethos of the Public Service.</p>
+<p>In 2023, there were three recipients of the President’s Scholarship (<u>Table 5</u>).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="alt text - Table 5" src="/images/tbl5.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="alt text - 2022 President's scholarship recipients" src="/images/image7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_17_2.png">
 </div>
 <p></p>
