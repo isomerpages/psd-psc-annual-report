@@ -23,7 +23,7 @@ and identifying new approaches to issues that confront us from trade diversifica
 social mobility to sustainability and matters of national security. To
 achieve this, we must continue to attract, develop, and retain good people
 for the Public Service.</p>
-<h3><strong>BUILDING A DIVERSE LEADERSHIP PIPELINE FOR AN EVOLVING FUTURE</strong></h3>
+<h3><strong>Building a Diverse Leadership Pipeline for an Evolving Future</strong></h3>
 <p>The Public Service Commission (PSC) Scholarship reflects our commitment
 to nurturing exceptional and dedicated individuals to contribute to nation-building.
 We seek to enhance diversity in our leadership pipeline and refine our
@@ -64,7 +64,7 @@ taking up data science and technology for their Masters, or engineers broadening
 into economics and management for their Masters. Such well-rounded educational
 training is helpful to prepare them to be more versatile and adaptive public
 officers, who can tackle evolving and multi-disciplinary challenges.</p>
-<h3><strong>BUILDING PARTNERSHIPS TO STRENGTHEN COLLABORATION</strong></h3>
+<h3><strong>Building Partnerships to Strengthen Collaboration</strong></h3>
 <p>The PSC strengthened collaboration with a wide range of agencies to attract
 talent to the Public Service. In 2023, we held a Whole-of-Government Scholarship
 Fair to synergise the outreach efforts of different public sector scholarship-awarding
@@ -74,7 +74,6 @@ Administrative Service and the Public Service Leadership Programme, to
 serve as ambassadors for the Public Service scholarship and career. This
 proactive outreach not only serves to inspire the next generation of youths
 but also embodies the spirit of giving back.</p>
-<p></p>
 <p>The Public Service must also forge close partnerships with the private
 and people sectors to co-create a roadmap for the next bound of nation-building
 and refresh our social compact. As future leaders, it is therefore critical
@@ -84,7 +83,7 @@ All PSC Scholarship recipients go through the Youth Corps Leaders Programme
 community and support a meaningful cause. I am pleased to report that they
 completed eight YCLP projects in 2023 supporting a wide range of issues
 and stakeholders from mental wellness, vulnerable youths to the elderly.</p>
-<h3><strong>THE ROAD AHEAD</strong></h3>
+<h3><strong>The Road Ahead</strong></h3>
 <p>The PSC will continue to work hard to build a robust and resilient leadership
 pipeline for the Public Service. Our search for talent leads us to individuals
 dedicated to serving Singapore and our community and who possess the right
