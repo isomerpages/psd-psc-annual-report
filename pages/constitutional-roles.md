@@ -41,7 +41,7 @@ disciplinary procedures^ listed below:</p>
 </p>
 <p><strong>b) The Public Service Commission (Delegation of Disciplinary Functions) Directions (“the Directions”);</strong>
 </p>
-<p><strong>c) The Public Service Commission (Prison Officers) (Disciplinary Proceedings – Delegation of Functions) Directions (“the Prisons Directions”). </strong>
+<p><strong>c) The Public Service Commission (Prison Officers) (Disciplinary Proceedings – Delegation of Functions) Directions (“the Prisons Directions”).</strong>
 </p>
 <p>Cases under the latter two categories are collectively known as being
 under “the Directions”.</p>
@@ -63,6 +63,6 @@ breakdown of the 60 cases completed under the Regulations.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_10_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_10_1.png">
 </div>
 <p></p>
