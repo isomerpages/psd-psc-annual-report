@@ -57,11 +57,6 @@ was instituted against the officers in the remaining 18 cases.</p>
 <p>The most common types of misconduct cases completed under the Regulations
 were Drug Offences and Non-Compliance of Orders. <u>Table 1</u> shows the
 breakdown of the 60 cases completed under the Regulations.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="alt text - Table 1" src="/images/tbl1.png">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_10_1.png">
 </div>
