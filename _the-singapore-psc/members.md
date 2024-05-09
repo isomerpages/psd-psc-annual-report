@@ -12,6 +12,6 @@ comprised the Chairman, Deputy Chairmen and ten other Members.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_7_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_7_1.png">
 </div>
 <p></p>
