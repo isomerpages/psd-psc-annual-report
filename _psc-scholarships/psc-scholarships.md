@@ -117,6 +117,19 @@ and leadership programmes.</p>
 Administration track, 26 on the Professional Service track and 7 on the
 Uniformed Service track (<u>Table 2</u>). Details of their courses and
 countries of study are in <u>Table 3</u> and <u>Table 4</u> respectively.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_15_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_16_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_16_2.png">
+</div>
+<p><em>*Including mid-term scholarships</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="alt text - Table 2" src="/images/tbl2.png">
 </div>
@@ -141,6 +154,9 @@ of Singaporeans and exemplifying the ethos of the Public Service.</p>
 <img style="width: 100%" height="auto" width="100%" alt="alt text - Table 5" src="/images/tbl5.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_17_3.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_17_2.png">
 </div>
