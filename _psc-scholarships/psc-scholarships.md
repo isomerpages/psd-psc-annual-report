@@ -4,6 +4,7 @@ permalink: /psc-scholarships/psc-scholarships/
 variant: tiptap
 ---
 <h1><strong>RECRUITING TALENT, DEVELOPING LEADERS</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_12_1.png">
 </div>
@@ -130,15 +131,6 @@ countries of study are in <u>Table 3</u> and <u>Table 4</u> respectively.</p>
 </div>
 <p><em>*Including mid-term scholarships</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="alt text - Table 2" src="/images/tbl2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="alt text - Table 3" src="/images/tbl3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="alt text - Table 4" src="/images/tbl4.png">
-</div>
 <h3><strong>President’s Scholarship</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_17_1.png">
@@ -150,10 +142,6 @@ out among their cohort, demonstrating excellence in their pursuits. Recipients
 of the President’s Scholarship have shown dedication to improving the lives
 of Singaporeans and exemplifying the ethos of the Public Service.</p>
 <p>In 2023, there were three recipients of the President’s Scholarship (<u>Table 5</u>).</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="alt text - Table 5" src="/images/tbl5.png">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_17_3.png">
 </div>
