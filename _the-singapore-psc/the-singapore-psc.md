@@ -17,10 +17,6 @@ officers*.</p>
 <p>*<em>These categories of officers do not fall under the PSC’s purview: Singapore Armed Forces personnel, officers in the Judicial and Legal Services, and Police Officers below the rank of Inspector.</em>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_6_1.png">
-</div>
-<p></p>
 <p>Under the Public Sector (Governance) Act 2018 which came into effect on
 1 April 2018, the PSC’s concurrence is required for the appointment, promotion
 and discipline of Chief Executive Officers of Statutory Boards.</p>
@@ -35,9 +31,6 @@ E1/Grade 8 (except for the Auditing Service), and</p>
 <p>D.&nbsp;&nbsp;&nbsp; Transfer of service among services other than transfers
 to the Administrative Service.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_6_2.png">
-</div>
 <p>The PSC is the final appellate body to consider appeals against decisions
 of the Special Personnel Board.</p>
 <p>The PSC performs a non-constitutional role of recruiting and developing
