@@ -12,7 +12,10 @@ with public officers and learn more about the work across different sectors,
 ranging from growth and transformation at MHA, future capabilities of the
 Army at MINDEF, health crisis management at MOH to sustainability infrastructure
 at MND.&nbsp;</p>
-<p></p>
+<p>These regular visits strengthen the PSC’s understanding and insights into
+the Public Service and help the PSC perform its roles and functions. The
+PSC would like to thank all public officers for their commitment and hard
+work in building a better Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_22_1.png">
 </div>
@@ -20,10 +23,6 @@ at MND.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_22_2.png">
 </div>
-<p>These regular visits strengthen the PSC’s understanding and insights into
-the Public Service and help the PSC perform its roles and functions. The
-PSC would like to thank all public officers for their commitment and hard
-work in building a better Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_23_1.png">
