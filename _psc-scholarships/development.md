@@ -81,7 +81,7 @@ social compact.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_20_1.png">
 </div>
-<h3><strong>Diverse Experiences Through Academic Programmes, Internships and the Gap Year</strong></h3>
+<h3><strong>Diverse Experiences through Academic Programmes, Internships and the Gap Year</strong></h3>
 <p>Scholarship holders are encouraged to actively seek out diverse experiences,
 particularly in areas of strategic interest to the Public Service, to complement
 their formal education and provide them with a broader worldview.</p>
