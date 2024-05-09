@@ -7,10 +7,6 @@ variant: tiptap
 <p>The Public Service Commission (PSC) is constituted under Part IX of the
 Constitution of the Republic of Singapore.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="alt text - PSC Functions" src="/images/pscfunctions.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_6_1.png">
 </div>
 <p>*<em>These categories of officers do not fall under the PSC’s purview: Singapore Armed Forces personnel, officers in the Judicial and Legal Services, and Police Officers below the rank of Inspector.</em>
@@ -18,9 +14,6 @@ Constitution of the Republic of Singapore.</p>
 <p>Under the Public Sector (Governance) Act 2018 which came into effect on
 1 April 2018, the PSC’s concurrence is required for the appointment, promotion
 and discipline of Chief Executive Officers of Statutory Boards.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="alt text - Devolution of PSC Functions" src="/images/devolution.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_6_2.png">
