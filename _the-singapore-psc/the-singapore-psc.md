@@ -7,9 +7,6 @@ variant: tiptap
 <p>The Public Service Commission (PSC) is constituted under Part IX of the
 Constitution of the Republic of Singapore.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_6_1.png">
-</div>
 <p>The functions of the PSC under the Constitution are as follows:</p>
 <p>A.&nbsp;&nbsp;&nbsp; Appoint,</p>
 <p>B.&nbsp;&nbsp;&nbsp; Confirm,</p>
@@ -25,9 +22,6 @@ officers*.</p>
 1 April 2018, the PSC’s concurrence is required for the appointment, promotion
 and discipline of Chief Executive Officers of Statutory Boards.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_6_2.png">
-</div>
 <p>Since 1995, the following personnel functions have been devolved to the
 Personnel Boards in the Ministries:</p>
 <p>A.&nbsp;&nbsp;&nbsp; Recruitment and appointment to the Civil Service
