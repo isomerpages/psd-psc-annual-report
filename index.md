@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/PSC_Annual_Report_Banner_1920pxW_x_720pxH_110925_edited_2.png
+      background: /images/PSC_Annual_Report_Banner_1920pxW_x_720pxH_FA_1920x720_edited.png
       key_highlights:
         - title: Chairman's Review
           url: /chairman's-review/
