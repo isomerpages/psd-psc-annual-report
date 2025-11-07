@@ -7,13 +7,13 @@ variant: tiptap
 <p>The Public Service Commission (PSC) is constituted under Part IX of the
 Constitution of the Republic of Singapore.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg6_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSC_Annual_Report_2024_Final__PDF_A__Page_06_1.png">
 </div>
 <p>Under the Public Sector (Governance) Act 2018 which came into effect on
 1 April 2018, the PSC’s concurrence is required for the appointment, promotion
 and discipline of Chief Executive Officers of Statutory Boards.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg6_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSC_Annual_Report_2024_Final__PDF_A__Page_06_2.png">
 </div>
 <p>The PSC is the final appellate body to consider appeals against decisions
 of the Special Personnel Board.</p>
