@@ -74,5 +74,7 @@ for their dedication and wise counsel over the past year. I also wish to
 express my appreciation to all the staff of the PSC Secretariat for their
 unstinting support. Let our core values guide us through our future challenges.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MT_MR20240326_161139821_resized.jpg">
+</div>
 <p></p>
