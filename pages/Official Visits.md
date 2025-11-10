@@ -27,9 +27,7 @@ for their hard work and dedication in building a better Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_15__20240821_Google_MTI_272_cropped.jpg">
 </div>
-<p><em>PSC’s Visit to Google Singapore – Engagement with Officers from MTI and its Statutory Boards. </em>
-</p>
-<p><em>Photo Credit: Google</em>
+<p><em>PSC’s Visit to Google Singapore – Engagement with Officers from MTI and its Statutory Boards. Photo Credit: Google</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
