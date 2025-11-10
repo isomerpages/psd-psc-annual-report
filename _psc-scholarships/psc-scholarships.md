@@ -100,21 +100,25 @@ on international education options.</p>
 <p>The PSC works in close partnership with agencies, schools, universities
 and self-help community groups to reach out to a diverse profile of candidates
 and raise awareness of the scholarship and career options available in
-the Public Service. In 2023, the PSC established the Alumni Network which
-brought together over 160 volunteers from the Public Service talent programmes
-to complement and support engagement and partnership efforts. Over the
-past year, the Network has supported close to 20 initiatives and engaged
-a diverse range of student profiles through school engagement sessions
-and leadership programmes.</p>
-<p></p>
+the Public Service. The Alumni Network, which was set up in 2023, has since
+expanded to nearly 200 volunteers including previous recipients of the
+PSC Scholarships and high-potential officers from the Public Service talent
+programmes. The volunteers supported the PSC and our schools to help students
+across a range of schools understand more about Public Service scholarships
+and careers</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_14_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_6__Engagement_Session_with_Year_1_Students_at_NYJC.jpg">
 </div>
-<h2></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_14_3.png">
-</div>
-<h2><strong>2023 PSC Scholarship Recipients</strong></h2>
+<p><em>Engagement Session with Year 1 Students at Nanyang Junior College</em>
+</p>
+<p>The PSC has also expanded its outreach efforts to Singaporean talent studying
+in overseas universities through tie-ups with the Singapore Global Network
+and Singapore student associations, and joint promotion trips with public
+sector agencies. In the last two years, about 15 overseas Singaporean students
+have been successfully matched for summer internship opportunities across
+various public sector agencies for a first-hand experience in the Public
+Service.</p>
+<h2><strong>2024 PSC Scholarship Recipients</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_15_1.png">
