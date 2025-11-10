@@ -4,57 +4,68 @@ permalink: /psc-scholarships/development/
 variant: tiptap
 ---
 <h2><strong>Moulding Tomorrow’s Leaders</strong></h2>
-<p>PSC scholarship holders participate in a series of milestone programmes
+<p>PSC Scholarship holders participate in a series of milestone programmes
 and developmental opportunities during their studies. These programmes
-help them to develop a diverse set of experiences and prepare them to make
+help them develop a diverse set of experiences and prepare them to make
 impactful contributions.</p>
-<h3><strong>2023 Preparatory Course</strong></h3>
-<p>The annual Preparatory Course aims to prepare new PSC scholarship recipients
-for their studies and equip them for their roles as ambassadors of the
-Singapore Public Service. The programme also provides them with a better
-understanding of the opportunities and challenges ahead for the Public
-Service. The 2023 Preparatory Course was conducted from 15 to 28 June 2023,
-and included a three-day Outward Bound Singapore component, incorporating
-key elements on building self-awareness, leadership skills and team cohesion.</p>
+<h3><strong>2024 Preparatory Course</strong></h3>
+<p>The annual Preparatory Course is designed to prepare new PSC Scholarship
+recipients for their academic journey while developing them as future leaders
+of the Singapore Public Service. The programme also provides them with
+a better understanding of the opportunities and challenges ahead for the
+Public Service. The 2024 Preparatory Course was conducted from 13 to 28
+June 2024 and included a three-day Outward Bound Singapore experience focused
+on enhancing self-awareness, leadership skills and team cohesion.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_9__2024_PSC_Scholarship_Recipients_at_OBS.jpg">
+</div>
+<p><em>2024 PSC Scholarship Recipients at the Three-day Outward Bound Singapore Experience</em>
+</p>
+<p>The course also featured a culinary workshop and a self-defence class
+to enhance the scholars' life skills and personal safety awareness.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_18_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_10__2024_PSC_Scholarship_Recipients_at_the_Culinary_Workshop.jpg">
 </div>
-<p>As part of the Preparatory Course, all scholarship recipients also took
-part in the Youth Corps Leaders Programme (YCLP), which enables them to
-identify, plan and execute projects that address issues in the community
-and support a meaningful cause. There were eight YCLP projects completed
-in 2023. Of which, three are featured in the following paragraphs.</p>
+<p><em>2024 PSC Scholarship Recipients at the Culinary Workshop</em>
+</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_18_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_11__2024_PSC_Scholarship_Recipients_Picking_Up_Self_Defence_Skills.jpg">
 </div>
-<p><em>KITA</em>
+<p><em>2024 PSC Scholarship Recipients Picking Up Self-defence Skills</em>
 </p>
-<p>KITA worked with Thye Hua Kwan Moral Charities to empower seniors residing
-in rental flats to better manage their health through befriending, health
-education and literacy efforts. The project focused on engaging and reinforcing
-health-seeking behaviours, while helping to prevent and reduce the prevalence
-of social isolation in these seniors.</p>
-<p><em>Lighthouse</em>
+<p></p>
+<p>As part of the Preparatory Course, all scholarship recipients participated
+in the Youth Corps Leaders Programme (YCLP). The YCLP empowers them to
+identify, plan and execute projects that address community issues and support
+a meaningful cause. In 2024, two YCLP projects were completed, both of
+which are highlighted in the following paragraphs.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_12__2024_PSC_Scholarship_Recipients_with_Guest_Speaker__Mr_Eric_Chua__Snr_PS_MCCY_resized.jpg">
+</div>
+<p><em>2024 PSC Scholarship Recipients with Guest Speaker, Mr Eric Chua, Senior Parliamentary Secretary at the Ministry of Culture, Community and Youth</em>
 </p>
-<p>Lighthouse sought to provide long-term, one-on-one social support for
-youths aged 13 to 25 years who are emotionally vulnerable or have mental
-health concerns. Working with Social Services institutions such as the
-Institute of Mental Health’s CHAT (Centre of Excellence for Youth Mental
-Health) and Samaritans of Singapore (SOS), the team provided volunteers
-with sponsored training in peer befriending and matched these volunteers
-to the socially vulnerable youth for a three-month befriending period under
-the guidance of a core team mentor.</p>
-<p><em>TechBridge</em>
+<p><strong>ForesightSG</strong>
 </p>
-<p>TechBridge focused on bridging the digital literacy divides between underprivileged
-students and their peers, through the building up of essential digital
-skills. Working with the Chinese Development Assistance Council (CDAC),
-the team held digital clinics to address digital difficulties faced by
-both parents and students from upper primary and lower secondary, promoting
-a family-centric approach and empowering underprivileged children to succeed
-in an increasingly digitalised society.</p>
+<p>ForesightSG collaborated with Pro Bono SG to enhance the legal and financial
+education knowledge of youths. Insights into the life challenges that youths
+faced as well as the types of financial knowledge they were lacking were
+gathered through focus group discussions. The team then designed targeted
+resources and information that would be most relevant and beneficial in
+helping youths better navigate their life challenges.</p>
+<p><strong>Project Homerun</strong>
+</p>
+<p>Project Homerun, in collaboration with Habitat for Humanity Singapore,
+aimed to improve the living conditions of vulnerable individuals residing
+in unsafe and unsanitary homes. The project targeted those with limited
+family support and who were reliant on social service agencies. Volunteers
+organised sessions to clean and maintain these homes, addressing the physical
+and mental health challenges faced by the residents. In addition to providing
+direct assistance, the project also raised funds to support Habitat for
+Humanity's work.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_19_1.png">
