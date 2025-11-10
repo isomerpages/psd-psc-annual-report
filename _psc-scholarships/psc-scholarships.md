@@ -119,14 +119,14 @@ have been successfully matched for summer internship opportunities across
 various public sector agencies for a first-hand experience in the Public
 Service.</p>
 <h2><strong>2024 PSC Scholarship Recipients</strong></h2>
+<p>In 2024, we awarded 54 PSC scholarships – 22 on the Public Administration
+track, 23 on the Professional Service track and 9 on the Uniformed Service
+track</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_7__2024_PSC_Scholarship_Award_Ceremony_resized.jpg">
 </div>
 <p><em>2024 PSC Scholarship Recipients with Mr Chan Chun Sing (Minister for Education and Minister-in-charge of the Public Service) and the Public Service Commission</em>
 </p>
-<p>In 2024, we awarded 54 PSC scholarships – 22 on the Public Administration
-track, 23 on the Professional Service track and 9 on the Uniformed Service
-track.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg15_1.png">
 </div>
@@ -143,21 +143,14 @@ of a public sector scholarship. It recognises individuals who have stood
 out among their cohort, demonstrating excellence in their pursuits. Recipients
 of the President’s Scholarship have shown dedication to improving the lives
 of Singaporeans and exemplified the ethos of the Public Service.</p>
-<p></p>
+<p>In 2024, there were three recipients of the President’s Scholarship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_8__President_s_Scholarship.jpg">
 </div>
-<p></p>
-<p>In 2024, there were three recipients of the President’s Scholarship.</p>
-<p></p>
+<p><em>Recipients of the 2024 President’s Scholarship with President Tharman Shanmugaratnam, First Lady, Ms Jane Ittogi, and Chairman, PSC</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg17_1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_17_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_17_2.png">
 </div>
 <p></p>
 <p></p>
