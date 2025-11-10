@@ -120,9 +120,6 @@ various public sector agencies for a first-hand experience in the Public
 Service.</p>
 <h2><strong>2024 PSC Scholarship Recipients</strong></h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_15_1.png">
-</div>
 <p>In 2023, 65 scholarship recipients proceeded for studies – 32 on the Public
 Administration track, 26 on the Professional Service track and 7 on the
 Uniformed Service track (<u>Table 2</u>). Details of their courses and
