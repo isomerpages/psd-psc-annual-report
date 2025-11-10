@@ -45,7 +45,7 @@ disciplinary procedures^ listed below:</p>
 </p>
 <p>Cases under the latter two categories are collectively known as being
 under “the Directions”.</p>
-<p><em>^Officers may be disciplined under the Regulations when it involves serious misconduct, where the possible penalties include a dismissal or a demotion. For less serious misconduct, officers may be disciplined under the Directions or Prisons Directions, as appropriate. The PSC has delegated to the Permanent Secretaries/ Commissioner of Prisons part of its functions pertaining to the discipline of officers for minor misconduct.</em>
+<p><em>^Officers may be disciplined under the Regulations when it involves serious misconduct, where the possible penalties include a dismissal or a demotion. For less serious misconduct, officers may be disciplined under the Directions or Prisons Directions, as appropriate. The PSC has delegated to the Permanent Secretaries/Commissioner of Prisons part of its functions pertaining to the discipline of officers for minor misconduct.</em>
 </p>
 <p>A total of 151 new disciplinary cases were reported to the PSC in 2024.
 Together with 83 cases that were brought forward from previous years, the
