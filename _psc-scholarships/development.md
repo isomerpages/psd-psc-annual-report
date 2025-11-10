@@ -66,14 +66,7 @@ organised sessions to clean and maintain these homes, addressing the physical
 and mental health challenges faced by the residents. In addition to providing
 direct assistance, the project also raised funds to support Habitat for
 Humanity's work.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_19_1.png">
-</div>
 <h3></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_19_2.png">
-</div>
 <h3><strong>2023 PSC Scholarship Holders’ Mid-Course Programme (PSMP)</strong></h3>
 <p>The PSMP, held midway through a scholarship holder’s undergraduate studies,
 builds on the foundations laid in the Preparatory Course and the scholarship
