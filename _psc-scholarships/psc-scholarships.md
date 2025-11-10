@@ -121,7 +121,7 @@ Service.</p>
 <h2><strong>2024 PSC Scholarship Recipients</strong></h2>
 <p>In 2024, we awarded 54 PSC scholarships – 22 on the Public Administration
 track, 23 on the Professional Service track and 9 on the Uniformed Service
-track</p>
+track.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_7__2024_PSC_Scholarship_Award_Ceremony_resized.jpg">
 </div>
