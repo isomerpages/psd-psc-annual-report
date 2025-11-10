@@ -105,7 +105,7 @@ expanded to nearly 200 volunteers including previous recipients of the
 PSC Scholarships and high-potential officers from the Public Service talent
 programmes. The volunteers supported the PSC and our schools to help students
 across a range of schools understand more about Public Service scholarships
-and careers</p>
+and careers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_6__Engagement_Session_with_Year_1_Students_at_NYJC.jpg">
 </div>
