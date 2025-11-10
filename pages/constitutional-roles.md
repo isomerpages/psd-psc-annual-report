@@ -56,6 +56,6 @@ action was instituted against the officers in the remaining 13 cases.</p>
 <p>The most common types of misconduct cases completed under the Regulations
 were Indebtedness, Non-Compliance of Orders and Sexual Offences.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_10_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg10_1.png">
 </div>
 <p></p>
