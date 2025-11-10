@@ -4,11 +4,7 @@ permalink: /psc-scholarships/psc-scholarships/
 variant: tiptap
 ---
 <h1><strong>RECRUITING TALENT, DEVELOPING LEADERS</strong></h1>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_12_1.png">
-</div>
-<h2><strong>PSC Scholarships - A Gateway to Public Service Careers</strong></h2>
+<h2><strong>PSC Scholarship - Gateway to a Public Service Career </strong></h2>
 <p>The PSC awards full scholarships to outstanding young men and women who
 are committed to serving Singapore through a career in the Public Service.
 The PSC Scholarships are open to applicants at various points in their
@@ -16,40 +12,43 @@ education journey and offer three main career paths – Public Administration,
 Professional Service and Uniformed Service. Successful applicants may be
 awarded the scholarship prior to their undergraduate studies, during their
 undergraduate studies (as a mid-term scholarship recipient) or after completing
-their undergraduate studies with no more than three years of working experience
-in the private or people sectors (as a Master’s scholarship recipient).
-The multiple entry points have enabled the PSC to recruit scholarship holders
+their undergraduate studies (as a Master’s scholarship recipient). These
+multiple entry points have enabled the PSC to recruit scholarship holders
 with diverse perspectives and backgrounds.</p>
 <h3><strong>Public Administration</strong></h3>
-<p>Recipients of the PSC Scholarship or PSC Master’s Scholarship will assume
-a role in Public Administration. They are not tied to a specific Ministry
-at the start of their scholarship journey and can be deployed across different
-agencies after graduation. The Public Administration pathway provides scholarship
-holders the opportunity to develop as a leader and gain experience in multiple
-sectors of the Public Service.</p>
-<p>PSC introduced the PSC Scholarship (Sustainability) under the Public Administration
-career pathway in 2023. Recipients of the PSC Scholarship (Sustainability)
-or PSC Master’s Scholarship (Sustainability) will develop domain capabilities
-in sustainability and circularity and contribute to realising Singapore’s
-vision of a sustainable and future-ready nation. They will be deployed
-across different agencies to work on initiatives relating to the circular
-and green economy, coastal protection, biodiversity, urban heat issues
-and sustainable land use, to name a few.</p>
+<p>Recipients of the PSC Scholarship, PSC Scholarship (Sustainability) or
+PSC Master’s Scholarship will assume a role in Public Administration. They
+are not tied to a specific Ministry at the start of their scholarship journey
+and can be deployed across different agencies after graduation. The Public
+Administration pathway provides scholarship holders the opportunity to
+develop as leaders and gain experience in multiple sectors of the Public
+Service. Recipients of the PSC Scholarship (Sustainability) and the PSC
+Master’s Scholarship (Sustainability) focus more on sustainability initiatives
+and policies in areas like climate change, clean energy, urban planning
+and green financing, in the course of their work.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_1__2024_PSC_Scholarship_and_PSC_Scholarship_Sustainability_resized.png">
+</div>
+<p><em>Recipients of the 2024 PSC Scholarship and PSC Scholarship (Sustainability)</em>
+</p>
+<h3><strong>Professional Service</strong></h3>
+<p>The Professional Service pathway develops scholarship holders for a specific
+career in Engineering, Foreign Service, Judicial Service/Legal Service,
+Medicine, Public Finance or Teaching Service. Recipients of these scholarships
+return to serve in the respective agencies linked to their scholarships
+and are guided and developed in line with their professional tracks.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_2__2024_PSC_Scholarship_Engineering_resized.png">
+</div>
+<p><em>Recipients of the 2024 PSC Scholarship (Engineering)</em>
+</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_13_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_3__PSC_Scholarship_Foreign_Service__Legal_Judicial__Medicine_and_Teaching_resized.png">
 </div>
-<h3><strong>Professional Service</strong></h3>
-<p>Some candidates have a clear focus and interest in the career path they
-wish to pursue. The Professional Service pathway develops scholarship holders
-for a specific career in Engineering, Foreign Service, Judicial Service/Legal
-Service, Medicine, Public Finance or Teaching Service. Recipients of these
-scholarships return to serve in the respective agencies linked to their
-scholarships and are guided and developed in line with their professional
-tracks.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_13_2.png">
-</div>
+<p><em>Recipients of the 2024 PSC Scholarship (Foreign Service), PSC Scholarship (Legal/Judicial), PSC Scholarship (Medicine) and PSC Scholarship (Teaching)</em>
+</p>
 <h3><strong>Uniformed Service</strong></h3>
 <p>The PSC also awards the Singapore Armed Forces Scholarship (SAFS) and
 the Singapore Police Force Scholarship (SPFS) to outstanding young men
