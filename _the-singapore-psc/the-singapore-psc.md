@@ -6,6 +6,10 @@ variant: tiptap
 <h1><strong>THE PSC’S ROLE</strong></h1>
 <p>The Public Service Commission (PSC) is constituted under Part IX of the
 Constitution of the Republic of Singapore.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg6_1.png">
+</div>
 <p>The functions of the PSC under the Constitution are as follows:</p>
 <p>A.&nbsp;&nbsp;&nbsp; Appoint,</p>
 <p>B.&nbsp;&nbsp;&nbsp; Confirm,</p>
@@ -14,13 +18,16 @@ Constitution of the Republic of Singapore.</p>
 <p>E.&nbsp;&nbsp;&nbsp; Transfer, and</p>
 <p>F.&nbsp;&nbsp;&nbsp; Dismiss and exercise disciplinary control over public
 officers*.</p>
-<p><em>*These categories of officers do not fall under the PSC’s purview: Singapore Armed Forces personnel, officers in the Judicial and Legal Services, and Police Officers below the rank of Inspector. </em>
+<p><em>*These categories of officers do not fall under the PSC’s purview: Singapore Armed Forces personnel, officers in the Judicial and Legal Services, and Police Officers below the rank of Inspector.</em>
 </p>
 <p>Under the Public Sector (Governance) Act 2018 which came into effect on
 1 April 2018, the PSC’s concurrence is required for the appointment, promotion
 and discipline of Chief Executive Officers of Statutory Boards.</p>
 <p>Since 1995, the following personnel functions have been devolved to the
 Personnel Boards in the Ministries:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg6_2.png">
+</div>
 <p>A.&nbsp;&nbsp;&nbsp; Recruitment and appointment to the Civil Service
 except for the Administrative Service and Auditing Service,</p>
 <p>B.&nbsp;&nbsp;&nbsp; Confirmation and emplacement of officers on the permanent
