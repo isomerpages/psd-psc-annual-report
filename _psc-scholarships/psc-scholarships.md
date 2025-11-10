@@ -4,7 +4,7 @@ permalink: /psc-scholarships/psc-scholarships/
 variant: tiptap
 ---
 <h1><strong>RECRUITING TALENT, DEVELOPING LEADERS</strong></h1>
-<h2><strong>PSC Scholarship - Gateway to a Public Service Career </strong></h2>
+<h2><strong>PSC Scholarship - Gateway to a Public Service Career</strong></h2>
 <p>The PSC awards full scholarships to outstanding young men and women who
 are committed to serving Singapore through a career in the Public Service.
 The PSC Scholarships are open to applicants at various points in their
@@ -58,14 +58,13 @@ to maintaining peace and stability, and law and order in our country.</p>
 and staff appointments in the SAF, while SPFS holders are groomed to lead
 the Home Team in upholding law, maintaining order and keeping peace in
 Singapore.</p>
-<p>In 2023, the PSC announced the extension of the SAFS and SPFS to mid-term
-applicants to further diversify the range of scholarship offerings beyond
-the pre-university levels. This provides promising candidates, who may
-decide on an SAF or SPF career during university, the opportunity to apply
-for the mid-term scholarship from 2024 onwards.</p>
+<p>The SAFS and SPFS are also offered to those who wish to decide on an SAF
+or SPF career mid-term or late into their university studies.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_13_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_4__SAF_and_SPF_resized.png">
 </div>
+<p><em>Recipients of the 2024 The Singapore Armed Forces (SAF) Scholarship and The Singapore Police Force (SPF) Scholarship</em>
+</p>
 <h2><strong>Identifying Talent</strong></h2>
 <p>The PSC adopts a rigorous process to select scholarship holders and considers
 a range of information from multiple sources. These include the candidate’s
@@ -74,23 +73,30 @@ community involvement, academic results and other notable achievements.
 The holistic assessment brings out key factors the PSC seeks in candidates,
 including leadership potential, resilience, diversity of experience, aptitude,
 passion and fit for a Public Service career. The PSC has adopted a range
-of tools, allowing the selection panel an insight into some of the non-intellectual
+of tools, allowing the selection panel insights into some of the non-intellectual
 and whole person traits of our applicants. The PSC continually reviews
 its battery of tools for scholarship selection and enhances it to ensure
 that the right talent is selected.</p>
 <p>The PSC provides updated information on the PSC Scholarships and Public
 Service careers to our stakeholders through regular meetings with school
 leaders, as well as sessions for students and their parents.</p>
-<p>In 2023, the PSC expanded its annual Scholarship Information Session to
-a Whole-Of-Government Scholarship Fair involving over 40 agencies. The
-scholarship fair provided a ‘one-stop’ platform for prospective scholarship
-applicants and their parents to learn more about the careers and scholarships
-offered by the various agencies. Key overseas education partners were also
-invited to share on the tertiary education opportunities in France, Germany,
-Japan, the United Kingdom and the United States.</p>
+<p>The PSC and Public Sector Scholarships Fair is held by the PSC annually,
+to provide a ‘one-stop’ platform for prospective scholarship applicants
+and their parents to learn more about the careers and scholarships offered
+by public sector agencies. To provide a global perspective, the 2024 fair
+featured key overseas education partners who shared information on tertiary
+education opportunities in France, Germany, Japan, the United Kingdom and
+the United States. Admissions officers from overseas universities such
+as the University of Cambridge and Imperial College London also attended
+the 2024 fair to engage directly with prospective scholarship applicants.
+In addition, student associations were present to share their experiences
+in less conventional study destinations, offering attendees a broader perspective
+on international education options.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_14_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_5__PSC_Scholarship_Fair.jpg">
 </div>
+<p><em>Students and their Parents at the 2024 PSC and Public Sector Scholarships Fair</em>
+</p>
 <p>The PSC works in close partnership with agencies, schools, universities
 and self-help community groups to reach out to a diverse profile of candidates
 and raise awareness of the scholarship and career options available in
