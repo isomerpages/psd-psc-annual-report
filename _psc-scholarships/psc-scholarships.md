@@ -119,11 +119,14 @@ have been successfully matched for summer internship opportunities across
 various public sector agencies for a first-hand experience in the Public
 Service.</p>
 <h2><strong>2024 PSC Scholarship Recipients</strong></h2>
-<p></p>
-<p>In 2023, 65 scholarship recipients proceeded for studies – 32 on the Public
-Administration track, 26 on the Professional Service track and 7 on the
-Uniformed Service track (<u>Table 2</u>). Details of their courses and
-countries of study are in <u>Table 3</u> and <u>Table 4</u> respectively.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_7__2024_PSC_Scholarship_Award_Ceremony_resized.jpg">
+</div>
+<p><em>2024 PSC Scholarship Recipients with Mr Chan Chun Sing (Minister for Education and Minister-in-charge of the Public Service) and the Public Service Commission</em>
+</p>
+<p>In 2024, we awarded 54 PSC scholarships – 22 on the Public Administration
+track, 23 on the Professional Service track and 9 on the Uniformed Service
+track.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_15_2.png">
 </div>
@@ -152,4 +155,5 @@ of Singaporeans and exemplifying the ethos of the Public Service.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_17_2.png">
 </div>
+<p></p>
 <p></p>
