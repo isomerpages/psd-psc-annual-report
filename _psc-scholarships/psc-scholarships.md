@@ -137,16 +137,22 @@ track.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg16_2.png">
 </div>
 <h3><strong>President’s Scholarship</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_17_1.png">
-</div>
 <p>The PSC also awards the President’s Scholarship – Singapore’s most prestigious
 undergraduate scholarship. The President’s Scholarship is awarded on top
 of a public sector scholarship. It recognises individuals who have stood
 out among their cohort, demonstrating excellence in their pursuits. Recipients
 of the President’s Scholarship have shown dedication to improving the lives
 of Singaporeans and exemplified the ethos of the Public Service.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figure_8__President_s_Scholarship.jpg">
+</div>
+<p></p>
 <p>In 2024, there were three recipients of the President’s Scholarship.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg17_1.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg_17_3.png">
 </div>
