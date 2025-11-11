@@ -17,7 +17,7 @@ sections:
         - title: PSC Scholarships
           url: /psc-scholarships/psc-scholarships
       variant: side
-      size: sm
+      size: md
       alignment: right
       backgroundColor: gray
       title: Public Service Commission Annual Report 2024
