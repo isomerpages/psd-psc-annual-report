@@ -11,7 +11,7 @@ Constitution of the Republic of Singapore.</p>
 </div>
 <p>Under the Public Sector (Governance) Act 2018 which came into effect on
 1 April 2018, the PSC’s concurrence is required for the appointment, promotion
-and discipline of Chief Executive Officers of Statutory Boards</p>
+and discipline of Chief Executive Officers of Statutory Boards.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pg6_2.png">
 </div>
