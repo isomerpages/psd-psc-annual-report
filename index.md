@@ -16,7 +16,7 @@ sections:
           url: /constitutional-roles/
         - title: PSC Scholarships
           url: /psc-scholarships/psc-scholarships
-      variant: image
+      variant: center
       size: sm
       alignment: left
       backgroundColor: gray
