@@ -3,103 +3,78 @@ title: Chairman's Review
 permalink: /chairman's-review/
 variant: tiptap
 ---
-<p>Singapore fully transitioned to living with COVID-19 as an endemic disease
-in 2023. Our society held together and emerged united from the pandemic.
-As shared by Deputy Prime Minister Lawrence Wong in Parliament during the
-Debate on the Motion on Singapore’s Response to COVID-19, the most important
-lesson learnt from the crisis is that<em> </em><strong><em>we are stronger when we stand and work together</em>.</strong> This
-key takeaway will continue to guide our future approaches. Across the Public
-Service, agencies need to continue working together with the private and
-people sector, in the interest of the common good, to enable Singapore
-to overcome our challenges.</p>
-<p>Today, Singapore faces an international environment fraught with tensions
-and uncertainties. Being small and open, as a country trading with the
-rest of the world, Singapore is susceptible to the fraying of the global
-economic order and disruption of supply chains when countries turn to protectionist
-measures. These challenges have reinforced the need for Singapore to cultivate
-a diverse leadership pipeline, to lead the next generation in adapting
-to the shifting global dynamics, building bridges across different communities,
-and identifying new approaches to issues that confront us from trade diversification,
-social mobility to sustainability and matters of national security. To
-achieve this, we must continue to attract, develop, and retain good people
-for the Public Service.</p>
-<h3><strong>Building a Diverse Leadership Pipeline for an Evolving Future</strong></h3>
-<p>The Public Service Commission (PSC) Scholarship reflects our commitment
-to nurturing exceptional and dedicated individuals to contribute to nation-building.
-We seek to enhance diversity in our leadership pipeline and refine our
-selection strategies in tandem with the evolving challenges and talent
-requirements. We are pleased to report progress in our efforts in 2023.</p>
-<p>The 65 scholarship holders who proceeded for their studies in 2023 came
-from a wide range of 19 different pre-university institutions, comprising
-the Integrated Programme schools, junior colleges, polytechnics and an
-international institution supporting home-based education.</p>
-<p>The PSC (Sustainability) scholarship was awarded to the inaugural batch
-of three individuals in 2023. They are currently pursuing their undergraduate
-and postgraduate studies and will embark on a career in sustainability
-and economic circularity in the Public Service upon graduation. We look
-forward to seeing more students take up this scholarship in the coming
-years.</p>
-<p>We awarded seven mid-term PSC scholarships in public administration, public
-finance, sustainability and engineering in 2023. The Public Service will
-benefit from the maturity, perspectives and experience of these individuals.
-As the PSC expands its range of scholarship offerings to attract talent
-beyond the pre-university levels, a mid-term option will be introduced
-for the Singapore Armed Forces Scholarship and the Singapore Police Force
-Scholarship in 2024. These mid-term scholarships are open to undergraduate
-students who have a passion to serve in the uniformed services and safeguard
-our national security.</p>
-<p>The scholarship experience is becoming more diverse and enriching. We
-are committed to strengthening our partnerships to provide opportunities
-for our scholarship holders to participate in overseas internship programmes
-with international organisations and the private sector through the Gap
-Year programme. This exposure to different cultures and environments enables
-scholarship holders to gain an understanding of issues beyond the Public
-Service, and an international network that will contribute to Singapore's
-future collaborative endeavours with other countries.</p>
-<p>Digital and technological literacy will become as essential as language
-proficiency in shaping thoughts and ideas. I am heartened to see that many
-PSC undergraduate scholarship holders have diversified into different fields
-at the postgraduate level e.g. humanities majors at the undergraduate level
-taking up data science and technology for their Masters, or engineers broadening
-into economics and management for their Masters. Such well-rounded educational
-training is helpful to prepare them to be more versatile and adaptive public
-officers, who can tackle evolving and multi-disciplinary challenges.</p>
-<h3><strong>Building Partnerships to Strengthen Collaboration</strong></h3>
-<p>The PSC strengthened collaboration with a wide range of agencies to attract
-talent to the Public Service. In 2023, we held a Whole-of-Government Scholarship
-Fair to synergise the outreach efforts of different public sector scholarship-awarding
-agencies. The recent establishment of a strong Alumni Network has brought
-together over 160 PSC scholarship holders and public officers from the
-Administrative Service and the Public Service Leadership Programme, to
-serve as ambassadors for the Public Service scholarship and career. This
-proactive outreach not only serves to inspire the next generation of youths
-but also embodies the spirit of giving back.</p>
-<p>The Public Service must also forge close partnerships with the private
-and people sectors to co-create a roadmap for the next bound of nation-building
-and refresh our social compact. As future leaders, it is therefore critical
-that our scholarship holders take an active interest in the community.
-All PSC Scholarship recipients go through the Youth Corps Leaders Programme
-(YCLP) to identify, plan and execute projects that address issues in the
-community and support a meaningful cause. I am pleased to report that they
-completed eight YCLP projects in 2023 supporting a wide range of issues
-and stakeholders from mental wellness, vulnerable youths to the elderly.</p>
-<h3><strong>The Road Ahead</strong></h3>
-<p>The PSC will continue to work hard to build a robust and resilient leadership
-pipeline for the Public Service. Our search for talent leads us to individuals
-dedicated to serving Singapore and our community and who possess the right
-values. Integrity is at the heart of the Public Service’s values and is
-essential for building strong institutions and for maintaining public confidence
-and trust. The PSC remains steadfast in ensuring the integrity of the Public
-Service by exercising disciplinary control over civil servants impartially,
+<p>The political transition to the 4th generation leadership team in 2024
+was a significant milestone in Singapore's history. In his inauguration
+speech, Prime Minister Lawrence Wong shared how he and many in his 4G leadership
+team were beneficiaries of the public policies of Singapore’s earlier generations
+of leadership.</p>
+<p>The Singapore Public Service is dedicated to serving the nation and ensuring
+institutional continuity. It has played a significant role in delivering
+the public policies that have developed the Singapore of today. Public
+officers remain agile, providing input to and supporting the policy priorities
+set out by the political leadership. We need talent in the Public Service
+who can contribute different perspectives and view the future from multiple
+angles to build a stronger Singapore.</p>
+<h3><strong>Nurturing a Strong Pipeline of Public Service Leaders</strong></h3>
+<p>The Public Service Commission (PSC) is committed to identifying and nurturing
+talent for the Singapore Public Service.</p>
+<p>We need talent who can create opportunities and shape the future. Public
+Service leaders must not only excel in their contributions, but must demonstrate
+the values of integrity, service, excellence, and most importantly, the
+purpose and conviction to serve. This leadership entails responsibility,
+stewardship, and dedication to the common good. It is encouraging that
+many of the PSC Scholarship holders go on to senior leadership positions
+in our public institutions.</p>
+<p>In 2024, 54 new recipients of scholarships from the PSC came from a wide
+range of pre-tertiary institutions. Eight of them will follow the path
+less travelled to do their undergraduate programmes in France, Germany,
+and Japan. The PSC encourages our scholarship recipients to pursue their
+studies in different fields and to gain different precious life experiences,
+so as to strengthen our Public Service and to enhance the ability to serve
+different segments of our society in dealing with emerging challenges.</p>
+<h3><strong>Strength through Partnerships</strong></h3>
+<p>Building a strong leadership pipeline requires a collective effort. In
+2024, we strengthened outreach through partnerships with key stakeholders.
+We continue to work closely with all schools and pre-tertiary institutions.
+The expanded Whole-of-Government (WOG) PSC and Public Sector Scholarship
+Fair attracted over 800 participants, with over 50 public agencies, international
+partners, and universities featured. Our Alumni Network volunteers, made
+up of PSC Scholarship holders and public officers from the Public Service
+Leadership Programme and Administrative Service, helped students in schools
+and polytechnics learn more about careers in the Public Service and answer
+their questions. We participated in career fairs organised by the schools,
+and extended our reach to Year 1 students in the junior colleges. The PSC
+also actively engaged our overseas university partners to keep abreast
+of educational developments and to promote the PSC Scholarship to overseas
+Singaporeans.</p>
+<p>With good help from our diplomats, we were able to reinstate the partnership
+with the Japanese Government on the Monbukagakusho Scholarship (MEXT Scholarship)
+after a hiatus of 10 years. This will allow our PSC Scholarship holders
+and other public sector scholarship holders to concurrently hold a MEXT
+Scholarship, which will assist in their admission to top national universities
+in Japan. We also launched a preparatory programme with Carl Duisberg Centren
+in Cologne, Germany to assist PSC scholars in acquiring the requisite German
+language proficiency and preparing for their undergraduate studies in Germany.
+We hope these efforts will encourage more students to study in Japan and
+Germany in the years ahead.</p>
+<h3><strong>Upholding High Standards of Integrity in the Public Service</strong></h3>
+<p>Integrity is at the heart of the Public Service’s values. It is essential
+in a robust governance system and to maintain public trust. In 2024, the
+PSC saw 234 discipline cases, with a majority being minor cases and managed
+under the Directions. In instances where public officers fall short, they
+know that the disciplinary system will deal with them fairly and impartially,
 regardless of their rank or seniority, and without fear or favour.</p>
-<p>I would like to take this opportunity to express my deep gratitude to
-my fellow PSC members for their invaluable counsel and to the secretariat
-team for their strong support. We have overcome challenging times in the
-past year, and I am confident that our core values and adaptability will
-position us well to navigate the road ahead.</p>
+<h3><strong>Looking Ahead</strong></h3>
+<p>As Singapore celebrates 60 years of nation-building in 2025, the PSC remains
+committed to the principles of integrity, impartiality and meritocracy.
+We welcome outstanding individuals with the right values and purpose to
+come forward to serve in the Public Service.</p>
+<p>I would like to take this opportunity to thank all my fellow PSC Members
+for their dedication and wise counsel over the past year. I also wish to
+express my appreciation to all the staff of the PSC Secretariat for their
+unstinting support. Let our core values guide us through our future challenges.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chairman_s_Review.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MT_MR20240326_161139821_resized.jpg">
 </div>
-<p></p>
 <p></p>

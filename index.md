@@ -1,12 +1,12 @@
 ---
 layout: homepage
-title: PSC Annual Report 2023
+title: PSC Annual Report 2024
 description: test test
 image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/PSC_Annual_Report_20240508_1920x720.png
+      background: /images/PSC_Annual_Report_Banner_1920pxW_x_720pxH_FA_1920x720_edited_3.png
       key_highlights:
         - title: Chairman's Review
           url: /chairman's-review/
