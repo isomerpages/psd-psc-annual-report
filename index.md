@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/PSC_Annual_Report_Banner_1920pxW_x_720pxH_FA_1920x720_edited_4.png
+      background: /images/PSC_Annual_Report_Banner_1920pxW_x_720pxH_FA_1920x720_no_words.png
       key_highlights:
         - title: Chairman's Review
           url: /chairman's-review/
@@ -16,8 +16,10 @@ sections:
           url: /constitutional-roles/
         - title: PSC Scholarships
           url: /psc-scholarships/psc-scholarships
-      variant: center
+      variant: side
       size: sm
-      alignment: left
+      alignment: right
       backgroundColor: gray
+      title: Public Service Commission Annual Report 2024
+      subtitle: Integrity . Impartiality . Meritocracy
 ---
