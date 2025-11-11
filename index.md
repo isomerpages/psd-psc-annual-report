@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/PSC_Annual_Report_Banner_1920pxW_x_720pxH_FA_1920x720_edited_3.png
+      background: /images/PSC_Annual_Report_Banner_1920pxW_x_720pxH_FA_1920x720_edited_8.png
       key_highlights:
         - title: Chairman's Review
           url: /chairman's-review/
@@ -16,7 +16,8 @@ sections:
           url: /constitutional-roles/
         - title: PSC Scholarships
           url: /psc-scholarships/psc-scholarships
-      variant: image
+      variant: center
       size: md
-      alignment: left
+      alignment: right
+      backgroundColor: gray
 ---
